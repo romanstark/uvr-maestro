@@ -1,0 +1,10 @@
+{
+  "name": "uvr-maestro",
+  "version": "0.1.0",
+  "description": "Local UVR5 audio separation and restoration through MCP.",
+  "author": {"name": "Roman Stark", "email": "mail@romanstark.de"},
+  "homepage": "https://github.com/romanstark/uvr-maestro",
+  "repository": "https://github.com/romanstark/uvr-maestro",
+  "license": "AGPL-3.0-or-later",
+  "skills": "./src/uvr_maestro/skills/"
+}

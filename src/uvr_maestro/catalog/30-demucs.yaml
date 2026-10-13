@@ -1,0 +1,845 @@
+- slug: htdemucs_ft
+  display_name: 'Demucs v4: htdemucs_ft'
+  primary_stem: vocals
+  secondary_stem: instrumental
+  sample_rate: 44100
+  download_url: https://github.com/TRvlvr/model_repo/releases/download/all_public_uvr_models/htdemucs_ft.yaml
+  size_bytes: 0
+  sidecar_url: null
+  verified: false
+  notes: Output names and model parameters are resolved from UVR hash metadata.
+  artifacts:
+  - filename: f7e0c4bc-ba3fe64a.th
+    directory: Demucs_Models/v3_v4_repo
+    url: https://dl.fbaipublicfiles.com/demucs/hybrid_transformer/f7e0c4bc-ba3fe64a.th
+    role: weights
+    size_bytes: 0
+    sha256: null
+  - filename: d12395a8-e57c48e6.th
+    directory: Demucs_Models/v3_v4_repo
+    url: https://dl.fbaipublicfiles.com/demucs/hybrid_transformer/d12395a8-e57c48e6.th
+    role: weights
+    size_bytes: 0
+    sha256: null
+  - filename: 92cfc3b6-ef3bcb9c.th
+    directory: Demucs_Models/v3_v4_repo
+    url: https://dl.fbaipublicfiles.com/demucs/hybrid_transformer/92cfc3b6-ef3bcb9c.th
+    role: weights
+    size_bytes: 0
+    sha256: null
+  - filename: 04573f0d-f3cf25b2.th
+    directory: Demucs_Models/v3_v4_repo
+    url: https://dl.fbaipublicfiles.com/demucs/hybrid_transformer/04573f0d-f3cf25b2.th
+    role: weights
+    size_bytes: 0
+    sha256: null
+  - filename: htdemucs_ft.yaml
+    directory: Demucs_Models/v3_v4_repo
+    url: https://github.com/TRvlvr/model_repo/releases/download/all_public_uvr_models/htdemucs_ft.yaml
+    role: bag
+    size_bytes: 0
+    sha256: null
+  metadata: {}
+  aliases:
+  - htdemucs_ft
+  - htdemucs_ft.yaml
+  purposes: []
+  stems:
+  - Drums
+  - Bass
+  - Other
+  - Vocals
+  architecture: demucs_v4
+- slug: htdemucs
+  display_name: 'Demucs v4: htdemucs'
+  primary_stem: vocals
+  secondary_stem: instrumental
+  sample_rate: 44100
+  download_url: https://github.com/TRvlvr/model_repo/releases/download/all_public_uvr_models/htdemucs.yaml
+  size_bytes: 0
+  sidecar_url: null
+  verified: true
+  notes: Integration checked on a generated local stereo speech/music fixture. See
+    docs/verification.md for device and workflow evidence.
+  artifacts:
+  - filename: 955717e8-8726e21a.th
+    directory: Demucs_Models/v3_v4_repo
+    url: https://dl.fbaipublicfiles.com/demucs/hybrid_transformer/955717e8-8726e21a.th
+    role: weights
+    size_bytes: 0
+    sha256: null
+  - filename: htdemucs.yaml
+    directory: Demucs_Models/v3_v4_repo
+    url: https://github.com/TRvlvr/model_repo/releases/download/all_public_uvr_models/htdemucs.yaml
+    role: bag
+    size_bytes: 0
+    sha256: null
+  metadata: {}
+  aliases:
+  - htdemucs
+  - htdemucs.yaml
+  purposes: []
+  stems:
+  - Drums
+  - Bass
+  - Other
+  - Vocals
+  architecture: demucs_v4
+- slug: hdemucs_mmi
+  display_name: 'Demucs v4: hdemucs_mmi'
+  primary_stem: vocals
+  secondary_stem: instrumental
+  sample_rate: 44100
+  download_url: https://github.com/TRvlvr/model_repo/releases/download/all_public_uvr_models/hdemucs_mmi.yaml
+  size_bytes: 0
+  sidecar_url: null
+  verified: false
+  notes: Output names and model parameters are resolved from UVR hash metadata.
+  artifacts:
+  - filename: 75fc33f5-1941ce65.th
+    directory: Demucs_Models/v3_v4_repo
+    url: https://dl.fbaipublicfiles.com/demucs/hybrid_transformer/75fc33f5-1941ce65.th
+    role: weights
+    size_bytes: 0
+    sha256: null
+  - filename: hdemucs_mmi.yaml
+    directory: Demucs_Models/v3_v4_repo
+    url: https://github.com/TRvlvr/model_repo/releases/download/all_public_uvr_models/hdemucs_mmi.yaml
+    role: bag
+    size_bytes: 0
+    sha256: null
+  metadata: {}
+  aliases:
+  - hdemucs_mmi
+  - hdemucs_mmi.yaml
+  purposes: []
+  stems:
+  - Drums
+  - Bass
+  - Other
+  - Vocals
+  architecture: demucs_v4
+- slug: htdemucs_6s
+  display_name: 'Demucs v4: htdemucs_6s'
+  primary_stem: vocals
+  secondary_stem: instrumental
+  sample_rate: 44100
+  download_url: https://github.com/TRvlvr/model_repo/releases/download/all_public_uvr_models/htdemucs_6s.yaml
+  size_bytes: 0
+  sidecar_url: null
+  verified: true
+  notes: Integration checked on a generated local stereo speech/music fixture. See
+    docs/verification.md for device and workflow evidence.
+  artifacts:
+  - filename: 5c90dfd2-34c22ccb.th
+    directory: Demucs_Models/v3_v4_repo
+    url: https://dl.fbaipublicfiles.com/demucs/hybrid_transformer/5c90dfd2-34c22ccb.th
+    role: weights
+    size_bytes: 0
+    sha256: null
+  - filename: htdemucs_6s.yaml
+    directory: Demucs_Models/v3_v4_repo
+    url: https://github.com/TRvlvr/model_repo/releases/download/all_public_uvr_models/htdemucs_6s.yaml
+    role: bag
+    size_bytes: 0
+    sha256: null
+  metadata: {}
+  aliases:
+  - htdemucs_6s
+  - htdemucs_6s.yaml
+  purposes: []
+  stems:
+  - Drums
+  - Bass
+  - Other
+  - Vocals
+  - Guitar
+  - Piano
+  architecture: demucs_v4
+- slug: mdx
+  display_name: 'Demucs v3: mdx'
+  primary_stem: vocals
+  secondary_stem: instrumental
+  sample_rate: 44100
+  download_url: https://raw.githubusercontent.com/facebookresearch/demucs/main/demucs/remote/mdx.yaml
+  size_bytes: 0
+  sidecar_url: null
+  verified: false
+  notes: Output names and model parameters are resolved from UVR hash metadata.
+  artifacts:
+  - filename: 0d19c1c6-0f06f20e.th
+    directory: Demucs_Models/v3_v4_repo
+    url: https://dl.fbaipublicfiles.com/demucs/mdx_final/0d19c1c6-0f06f20e.th
+    role: weights
+    size_bytes: 0
+    sha256: null
+  - filename: 7ecf8ec1-70f50cc9.th
+    directory: Demucs_Models/v3_v4_repo
+    url: https://dl.fbaipublicfiles.com/demucs/mdx_final/7ecf8ec1-70f50cc9.th
+    role: weights
+    size_bytes: 0
+    sha256: null
+  - filename: c511e2ab-fe698775.th
+    directory: Demucs_Models/v3_v4_repo
+    url: https://dl.fbaipublicfiles.com/demucs/mdx_final/c511e2ab-fe698775.th
+    role: weights
+    size_bytes: 0
+    sha256: null
+  - filename: 7d865c68-3d5dd56b.th
+    directory: Demucs_Models/v3_v4_repo
+    url: https://dl.fbaipublicfiles.com/demucs/mdx_final/7d865c68-3d5dd56b.th
+    role: weights
+    size_bytes: 0
+    sha256: null
+  - filename: mdx.yaml
+    directory: Demucs_Models/v3_v4_repo
+    url: https://raw.githubusercontent.com/facebookresearch/demucs/main/demucs/remote/mdx.yaml
+    role: bag
+    size_bytes: 0
+    sha256: null
+  metadata: {}
+  aliases:
+  - mdx
+  - mdx.yaml
+  purposes: []
+  stems:
+  - Drums
+  - Bass
+  - Other
+  - Vocals
+  architecture: demucs_v3
+- slug: mdx_q
+  display_name: 'Demucs v3: mdx_q'
+  primary_stem: vocals
+  secondary_stem: instrumental
+  sample_rate: 44100
+  download_url: https://raw.githubusercontent.com/facebookresearch/demucs/main/demucs/remote/mdx_q.yaml
+  size_bytes: 0
+  sidecar_url: null
+  verified: true
+  notes: Integration checked on a generated local stereo speech/music fixture. See
+    docs/verification.md for device and workflow evidence.
+  artifacts:
+  - filename: 6b9c2ca1-3fd82607.th
+    directory: Demucs_Models/v3_v4_repo
+    url: https://dl.fbaipublicfiles.com/demucs/mdx_final/6b9c2ca1-3fd82607.th
+    role: weights
+    size_bytes: 0
+    sha256: null
+  - filename: b72baf4e-8778635e.th
+    directory: Demucs_Models/v3_v4_repo
+    url: https://dl.fbaipublicfiles.com/demucs/mdx_final/b72baf4e-8778635e.th
+    role: weights
+    size_bytes: 0
+    sha256: null
+  - filename: 42e558d4-196e0e1b.th
+    directory: Demucs_Models/v3_v4_repo
+    url: https://dl.fbaipublicfiles.com/demucs/mdx_final/42e558d4-196e0e1b.th
+    role: weights
+    size_bytes: 0
+    sha256: null
+  - filename: 305bc58f-18378783.th
+    directory: Demucs_Models/v3_v4_repo
+    url: https://dl.fbaipublicfiles.com/demucs/mdx_final/305bc58f-18378783.th
+    role: weights
+    size_bytes: 0
+    sha256: null
+  - filename: mdx_q.yaml
+    directory: Demucs_Models/v3_v4_repo
+    url: https://raw.githubusercontent.com/facebookresearch/demucs/main/demucs/remote/mdx_q.yaml
+    role: bag
+    size_bytes: 0
+    sha256: null
+  metadata: {}
+  aliases:
+  - mdx_q
+  - mdx_q.yaml
+  purposes: []
+  stems:
+  - Drums
+  - Bass
+  - Other
+  - Vocals
+  architecture: demucs_v3
+- slug: mdx_extra
+  display_name: 'Demucs v3: mdx_extra'
+  primary_stem: vocals
+  secondary_stem: instrumental
+  sample_rate: 44100
+  download_url: https://raw.githubusercontent.com/facebookresearch/demucs/main/demucs/remote/mdx_extra.yaml
+  size_bytes: 0
+  sidecar_url: null
+  verified: false
+  notes: Output names and model parameters are resolved from UVR hash metadata.
+  artifacts:
+  - filename: e51eebcc-c1b80bdd.th
+    directory: Demucs_Models/v3_v4_repo
+    url: https://dl.fbaipublicfiles.com/demucs/mdx_final/e51eebcc-c1b80bdd.th
+    role: weights
+    size_bytes: 0
+    sha256: null
+  - filename: a1d90b5c-ae9d2452.th
+    directory: Demucs_Models/v3_v4_repo
+    url: https://dl.fbaipublicfiles.com/demucs/mdx_final/a1d90b5c-ae9d2452.th
+    role: weights
+    size_bytes: 0
+    sha256: null
+  - filename: 5d2d6c55-db83574e.th
+    directory: Demucs_Models/v3_v4_repo
+    url: https://dl.fbaipublicfiles.com/demucs/mdx_final/5d2d6c55-db83574e.th
+    role: weights
+    size_bytes: 0
+    sha256: null
+  - filename: cfa93e08-61801ae1.th
+    directory: Demucs_Models/v3_v4_repo
+    url: https://dl.fbaipublicfiles.com/demucs/mdx_final/cfa93e08-61801ae1.th
+    role: weights
+    size_bytes: 0
+    sha256: null
+  - filename: mdx_extra.yaml
+    directory: Demucs_Models/v3_v4_repo
+    url: https://raw.githubusercontent.com/facebookresearch/demucs/main/demucs/remote/mdx_extra.yaml
+    role: bag
+    size_bytes: 0
+    sha256: null
+  metadata: {}
+  aliases:
+  - mdx_extra
+  - mdx_extra.yaml
+  purposes: []
+  stems:
+  - Drums
+  - Bass
+  - Other
+  - Vocals
+  architecture: demucs_v3
+- slug: mdx_extra_q
+  display_name: 'Demucs v3: mdx_extra_q'
+  primary_stem: vocals
+  secondary_stem: instrumental
+  sample_rate: 44100
+  download_url: https://raw.githubusercontent.com/facebookresearch/demucs/main/demucs/remote/mdx_extra_q.yaml
+  size_bytes: 0
+  sidecar_url: null
+  verified: false
+  notes: Output names and model parameters are resolved from UVR hash metadata.
+  artifacts:
+  - filename: 83fc094f-4a16d450.th
+    directory: Demucs_Models/v3_v4_repo
+    url: https://dl.fbaipublicfiles.com/demucs/mdx_final/83fc094f-4a16d450.th
+    role: weights
+    size_bytes: 0
+    sha256: null
+  - filename: 464b36d7-e5a9386e.th
+    directory: Demucs_Models/v3_v4_repo
+    url: https://dl.fbaipublicfiles.com/demucs/mdx_final/464b36d7-e5a9386e.th
+    role: weights
+    size_bytes: 0
+    sha256: null
+  - filename: 14fc6a69-a89dd0ee.th
+    directory: Demucs_Models/v3_v4_repo
+    url: https://dl.fbaipublicfiles.com/demucs/mdx_final/14fc6a69-a89dd0ee.th
+    role: weights
+    size_bytes: 0
+    sha256: null
+  - filename: 7fd6ef75-a905dd85.th
+    directory: Demucs_Models/v3_v4_repo
+    url: https://dl.fbaipublicfiles.com/demucs/mdx_final/7fd6ef75-a905dd85.th
+    role: weights
+    size_bytes: 0
+    sha256: null
+  - filename: mdx_extra_q.yaml
+    directory: Demucs_Models/v3_v4_repo
+    url: https://raw.githubusercontent.com/facebookresearch/demucs/main/demucs/remote/mdx_extra_q.yaml
+    role: bag
+    size_bytes: 0
+    sha256: null
+  metadata: {}
+  aliases:
+  - mdx_extra_q
+  - mdx_extra_q.yaml
+  purposes: []
+  stems:
+  - Drums
+  - Bass
+  - Other
+  - Vocals
+  architecture: demucs_v3
+- slug: UVR_Demucs_Model_1
+  display_name: 'Demucs v3: UVR Model'
+  primary_stem: vocals
+  secondary_stem: instrumental
+  sample_rate: 44100
+  download_url: https://github.com/TRvlvr/model_repo/releases/download/all_public_uvr_models/UVR_Demucs_Model_1.yaml
+  size_bytes: 0
+  sidecar_url: null
+  verified: false
+  notes: Output names and model parameters are resolved from UVR hash metadata.
+  artifacts:
+  - filename: ebf34a2db.th
+    directory: Demucs_Models/v3_v4_repo
+    url: https://github.com/TRvlvr/model_repo/releases/download/all_public_uvr_models/ebf34a2db.th
+    role: weights
+    size_bytes: 0
+    sha256: null
+  - filename: UVR_Demucs_Model_1.yaml
+    directory: Demucs_Models/v3_v4_repo
+    url: https://github.com/TRvlvr/model_repo/releases/download/all_public_uvr_models/UVR_Demucs_Model_1.yaml
+    role: bag
+    size_bytes: 0
+    sha256: null
+  metadata: {}
+  aliases:
+  - UVR Model
+  - UVR_Demucs_Model_1.yaml
+  purposes: []
+  stems:
+  - Drums
+  - Bass
+  - Other
+  - Vocals
+  architecture: demucs_v3
+- slug: repro_mdx_a
+  display_name: 'Demucs v3: repro_mdx_a'
+  primary_stem: vocals
+  secondary_stem: instrumental
+  sample_rate: 44100
+  download_url: https://github.com/TRvlvr/model_repo/releases/download/all_public_uvr_models/repro_mdx_a.yaml
+  size_bytes: 0
+  sidecar_url: null
+  verified: false
+  notes: Output names and model parameters are resolved from UVR hash metadata.
+  artifacts:
+  - filename: 9a6b4851-03af0aa6.th
+    directory: Demucs_Models/v3_v4_repo
+    url: https://dl.fbaipublicfiles.com/demucs/mdx_final/9a6b4851-03af0aa6.th
+    role: weights
+    size_bytes: 0
+    sha256: null
+  - filename: 1ef250f1-592467ce.th
+    directory: Demucs_Models/v3_v4_repo
+    url: https://dl.fbaipublicfiles.com/demucs/mdx_final/1ef250f1-592467ce.th
+    role: weights
+    size_bytes: 0
+    sha256: null
+  - filename: fa0cb7f9-100d8bf4.th
+    directory: Demucs_Models/v3_v4_repo
+    url: https://dl.fbaipublicfiles.com/demucs/mdx_final/fa0cb7f9-100d8bf4.th
+    role: weights
+    size_bytes: 0
+    sha256: null
+  - filename: 902315c2-b39ce9c9.th
+    directory: Demucs_Models/v3_v4_repo
+    url: https://dl.fbaipublicfiles.com/demucs/mdx_final/902315c2-b39ce9c9.th
+    role: weights
+    size_bytes: 0
+    sha256: null
+  - filename: repro_mdx_a.yaml
+    directory: Demucs_Models/v3_v4_repo
+    url: https://github.com/TRvlvr/model_repo/releases/download/all_public_uvr_models/repro_mdx_a.yaml
+    role: bag
+    size_bytes: 0
+    sha256: null
+  metadata: {}
+  aliases:
+  - repro_mdx_a
+  - repro_mdx_a.yaml
+  purposes: []
+  stems:
+  - Drums
+  - Bass
+  - Other
+  - Vocals
+  architecture: demucs_v3
+- slug: repro_mdx_a_time_only
+  display_name: 'Demucs v3: repro_mdx_a_time_only'
+  primary_stem: vocals
+  secondary_stem: instrumental
+  sample_rate: 44100
+  download_url: https://github.com/TRvlvr/model_repo/releases/download/all_public_uvr_models/repro_mdx_a_time_only.yaml
+  size_bytes: 0
+  sidecar_url: null
+  verified: false
+  notes: Output names and model parameters are resolved from UVR hash metadata.
+  artifacts:
+  - filename: 9a6b4851-03af0aa6.th
+    directory: Demucs_Models/v3_v4_repo
+    url: https://dl.fbaipublicfiles.com/demucs/mdx_final/9a6b4851-03af0aa6.th
+    role: weights
+    size_bytes: 0
+    sha256: null
+  - filename: 1ef250f1-592467ce.th
+    directory: Demucs_Models/v3_v4_repo
+    url: https://dl.fbaipublicfiles.com/demucs/mdx_final/1ef250f1-592467ce.th
+    role: weights
+    size_bytes: 0
+    sha256: null
+  - filename: repro_mdx_a_time_only.yaml
+    directory: Demucs_Models/v3_v4_repo
+    url: https://github.com/TRvlvr/model_repo/releases/download/all_public_uvr_models/repro_mdx_a_time_only.yaml
+    role: bag
+    size_bytes: 0
+    sha256: null
+  metadata: {}
+  aliases:
+  - repro_mdx_a_time_only
+  - repro_mdx_a_time_only.yaml
+  purposes: []
+  stems:
+  - Drums
+  - Bass
+  - Other
+  - Vocals
+  architecture: demucs_v3
+- slug: repro_mdx_a_hybrid_only
+  display_name: 'Demucs v3: repro_mdx_a_hybrid_only'
+  primary_stem: vocals
+  secondary_stem: instrumental
+  sample_rate: 44100
+  download_url: https://github.com/TRvlvr/model_repo/releases/download/all_public_uvr_models/repro_mdx_a_hybrid_only.yaml
+  size_bytes: 0
+  sidecar_url: null
+  verified: false
+  notes: Output names and model parameters are resolved from UVR hash metadata.
+  artifacts:
+  - filename: fa0cb7f9-100d8bf4.th
+    directory: Demucs_Models/v3_v4_repo
+    url: https://dl.fbaipublicfiles.com/demucs/mdx_final/fa0cb7f9-100d8bf4.th
+    role: weights
+    size_bytes: 0
+    sha256: null
+  - filename: 902315c2-b39ce9c9.th
+    directory: Demucs_Models/v3_v4_repo
+    url: https://dl.fbaipublicfiles.com/demucs/mdx_final/902315c2-b39ce9c9.th
+    role: weights
+    size_bytes: 0
+    sha256: null
+  - filename: repro_mdx_a_hybrid_only.yaml
+    directory: Demucs_Models/v3_v4_repo
+    url: https://github.com/TRvlvr/model_repo/releases/download/all_public_uvr_models/repro_mdx_a_hybrid_only.yaml
+    role: bag
+    size_bytes: 0
+    sha256: null
+  metadata: {}
+  aliases:
+  - repro_mdx_a_hybrid_only
+  - repro_mdx_a_hybrid_only.yaml
+  purposes: []
+  stems:
+  - Drums
+  - Bass
+  - Other
+  - Vocals
+  architecture: demucs_v3
+- slug: demucs-e07c671f
+  display_name: 'Demucs v2: demucs'
+  primary_stem: vocals
+  secondary_stem: instrumental
+  sample_rate: 44100
+  download_url: https://dl.fbaipublicfiles.com/demucs/v3.0/demucs-e07c671f.th
+  size_bytes: 0
+  sidecar_url: null
+  verified: false
+  notes: Output names and model parameters are resolved from UVR hash metadata.
+  artifacts:
+  - filename: demucs-e07c671f.th
+    directory: Demucs_Models
+    url: https://dl.fbaipublicfiles.com/demucs/v3.0/demucs-e07c671f.th
+    role: weights
+    size_bytes: 0
+    sha256: null
+  metadata: {}
+  aliases:
+  - demucs
+  - demucs-e07c671f.th
+  purposes: []
+  stems:
+  - Vocals
+  - Instrumental
+  architecture: legacy_demucs
+- slug: demucs_extra-3646af93
+  display_name: 'Demucs v2: demucs_extra'
+  primary_stem: vocals
+  secondary_stem: instrumental
+  sample_rate: 44100
+  download_url: https://dl.fbaipublicfiles.com/demucs/v3.0/demucs_extra-3646af93.th
+  size_bytes: 0
+  sidecar_url: null
+  verified: false
+  notes: Output names and model parameters are resolved from UVR hash metadata.
+  artifacts:
+  - filename: demucs_extra-3646af93.th
+    directory: Demucs_Models
+    url: https://dl.fbaipublicfiles.com/demucs/v3.0/demucs_extra-3646af93.th
+    role: weights
+    size_bytes: 0
+    sha256: null
+  metadata: {}
+  aliases:
+  - demucs_extra
+  - demucs_extra-3646af93.th
+  purposes: []
+  stems:
+  - Vocals
+  - Instrumental
+  architecture: legacy_demucs
+- slug: demucs48_hq-28a1282c
+  display_name: 'Demucs v2: demucs48_hq'
+  primary_stem: vocals
+  secondary_stem: instrumental
+  sample_rate: 44100
+  download_url: https://dl.fbaipublicfiles.com/demucs/v3.0/demucs48_hq-28a1282c.th
+  size_bytes: 0
+  sidecar_url: null
+  verified: false
+  notes: Output names and model parameters are resolved from UVR hash metadata.
+  artifacts:
+  - filename: demucs48_hq-28a1282c.th
+    directory: Demucs_Models
+    url: https://dl.fbaipublicfiles.com/demucs/v3.0/demucs48_hq-28a1282c.th
+    role: weights
+    size_bytes: 0
+    sha256: null
+  metadata: {}
+  aliases:
+  - demucs48_hq
+  - demucs48_hq-28a1282c.th
+  purposes: []
+  stems:
+  - Vocals
+  - Instrumental
+  architecture: legacy_demucs
+- slug: tasnet-beb46fac
+  display_name: 'Demucs v2: tasnet'
+  primary_stem: vocals
+  secondary_stem: instrumental
+  sample_rate: 44100
+  download_url: https://dl.fbaipublicfiles.com/demucs/v3.0/tasnet-beb46fac.th
+  size_bytes: 0
+  sidecar_url: null
+  verified: false
+  notes: Output names and model parameters are resolved from UVR hash metadata.
+  artifacts:
+  - filename: tasnet-beb46fac.th
+    directory: Demucs_Models
+    url: https://dl.fbaipublicfiles.com/demucs/v3.0/tasnet-beb46fac.th
+    role: weights
+    size_bytes: 0
+    sha256: null
+  metadata: {}
+  aliases:
+  - tasnet
+  - tasnet-beb46fac.th
+  purposes: []
+  stems:
+  - Vocals
+  - Instrumental
+  architecture: legacy_demucs
+- slug: tasnet_extra-df3777b2
+  display_name: 'Demucs v2: tasnet_extra'
+  primary_stem: vocals
+  secondary_stem: instrumental
+  sample_rate: 44100
+  download_url: https://dl.fbaipublicfiles.com/demucs/v3.0/tasnet_extra-df3777b2.th
+  size_bytes: 0
+  sidecar_url: null
+  verified: false
+  notes: Output names and model parameters are resolved from UVR hash metadata.
+  artifacts:
+  - filename: tasnet_extra-df3777b2.th
+    directory: Demucs_Models
+    url: https://dl.fbaipublicfiles.com/demucs/v3.0/tasnet_extra-df3777b2.th
+    role: weights
+    size_bytes: 0
+    sha256: null
+  metadata: {}
+  aliases:
+  - tasnet_extra
+  - tasnet_extra-df3777b2.th
+  purposes: []
+  stems:
+  - Vocals
+  - Instrumental
+  architecture: legacy_demucs
+- slug: demucs_unittest-09ebc15f
+  display_name: 'Demucs v2: demucs_unittest'
+  primary_stem: vocals
+  secondary_stem: instrumental
+  sample_rate: 44100
+  download_url: https://dl.fbaipublicfiles.com/demucs/v3.0/demucs_unittest-09ebc15f.th
+  size_bytes: 0
+  sidecar_url: null
+  verified: false
+  notes: Output names and model parameters are resolved from UVR hash metadata.
+  artifacts:
+  - filename: demucs_unittest-09ebc15f.th
+    directory: Demucs_Models
+    url: https://dl.fbaipublicfiles.com/demucs/v3.0/demucs_unittest-09ebc15f.th
+    role: weights
+    size_bytes: 0
+    sha256: null
+  metadata: {}
+  aliases:
+  - demucs_unittest
+  - demucs_unittest-09ebc15f.th
+  purposes: []
+  stems:
+  - Vocals
+  - Instrumental
+  architecture: legacy_demucs
+- slug: demucs
+  display_name: 'Demucs v1: demucs'
+  primary_stem: vocals
+  secondary_stem: instrumental
+  sample_rate: 44100
+  download_url: https://dl.fbaipublicfiles.com/demucs/v2.0/demucs.th
+  size_bytes: 0
+  sidecar_url: null
+  verified: false
+  notes: Output names and model parameters are resolved from UVR hash metadata.
+  artifacts:
+  - filename: demucs.th
+    directory: Demucs_Models
+    url: https://dl.fbaipublicfiles.com/demucs/v2.0/demucs.th
+    role: weights
+    size_bytes: 0
+    sha256: null
+  metadata: {}
+  aliases:
+  - demucs
+  - demucs.th
+  purposes: []
+  stems:
+  - Vocals
+  - Instrumental
+  architecture: legacy_demucs
+- slug: demucs_extra
+  display_name: 'Demucs v1: demucs_extra'
+  primary_stem: vocals
+  secondary_stem: instrumental
+  sample_rate: 44100
+  download_url: https://dl.fbaipublicfiles.com/demucs/v2.0/demucs_extra.th
+  size_bytes: 0
+  sidecar_url: null
+  verified: false
+  notes: Output names and model parameters are resolved from UVR hash metadata.
+  artifacts:
+  - filename: demucs_extra.th
+    directory: Demucs_Models
+    url: https://dl.fbaipublicfiles.com/demucs/v2.0/demucs_extra.th
+    role: weights
+    size_bytes: 0
+    sha256: null
+  metadata: {}
+  aliases:
+  - demucs_extra
+  - demucs_extra.th
+  purposes: []
+  stems:
+  - Vocals
+  - Instrumental
+  architecture: legacy_demucs
+- slug: light
+  display_name: 'Demucs v1: light'
+  primary_stem: vocals
+  secondary_stem: instrumental
+  sample_rate: 44100
+  download_url: https://dl.fbaipublicfiles.com/demucs/v2.0/light.th
+  size_bytes: 0
+  sidecar_url: null
+  verified: false
+  notes: Output names and model parameters are resolved from UVR hash metadata.
+  artifacts:
+  - filename: light.th
+    directory: Demucs_Models
+    url: https://dl.fbaipublicfiles.com/demucs/v2.0/light.th
+    role: weights
+    size_bytes: 0
+    sha256: null
+  metadata: {}
+  aliases:
+  - light
+  - light.th
+  purposes: []
+  stems:
+  - Vocals
+  - Instrumental
+  architecture: legacy_demucs
+- slug: light_extra
+  display_name: 'Demucs v1: light_extra'
+  primary_stem: vocals
+  secondary_stem: instrumental
+  sample_rate: 44100
+  download_url: https://dl.fbaipublicfiles.com/demucs/v2.0/light_extra.th
+  size_bytes: 0
+  sidecar_url: null
+  verified: false
+  notes: Output names and model parameters are resolved from UVR hash metadata.
+  artifacts:
+  - filename: light_extra.th
+    directory: Demucs_Models
+    url: https://dl.fbaipublicfiles.com/demucs/v2.0/light_extra.th
+    role: weights
+    size_bytes: 0
+    sha256: null
+  metadata: {}
+  aliases:
+  - light_extra
+  - light_extra.th
+  purposes: []
+  stems:
+  - Vocals
+  - Instrumental
+  architecture: legacy_demucs
+- slug: tasnet
+  display_name: 'Demucs v1: tasnet'
+  primary_stem: vocals
+  secondary_stem: instrumental
+  sample_rate: 44100
+  download_url: https://dl.fbaipublicfiles.com/demucs/v2.0/tasnet.th
+  size_bytes: 0
+  sidecar_url: null
+  verified: false
+  notes: Output names and model parameters are resolved from UVR hash metadata.
+  artifacts:
+  - filename: tasnet.th
+    directory: Demucs_Models
+    url: https://dl.fbaipublicfiles.com/demucs/v2.0/tasnet.th
+    role: weights
+    size_bytes: 0
+    sha256: null
+  metadata: {}
+  aliases:
+  - tasnet
+  - tasnet.th
+  purposes: []
+  stems:
+  - Vocals
+  - Instrumental
+  architecture: legacy_demucs
+- slug: tasnet_extra
+  display_name: 'Demucs v1: tasnet_extra'
+  primary_stem: vocals
+  secondary_stem: instrumental
+  sample_rate: 44100
+  download_url: https://dl.fbaipublicfiles.com/demucs/v2.0/tasnet_extra.th
+  size_bytes: 0
+  sidecar_url: null
+  verified: false
+  notes: Output names and model parameters are resolved from UVR hash metadata.
+  artifacts:
+  - filename: tasnet_extra.th
+    directory: Demucs_Models
+    url: https://dl.fbaipublicfiles.com/demucs/v2.0/tasnet_extra.th
+    role: weights
+    size_bytes: 0
+    sha256: null
+  metadata: {}
+  aliases:
+  - tasnet_extra
+  - tasnet_extra.th
+  purposes: []
+  stems:
+  - Vocals
+  - Instrumental
+  architecture: legacy_demucs

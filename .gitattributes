@@ -1,0 +1,12 @@
+# Normalise line endings to LF on commit, but keep CRLF on Windows for files
+# that need it (e.g. batch scripts).
+* text=auto eol=lf
+
+# Force CRLF on Windows-only scripts even when contributors run on macOS/Linux.
+*.bat text eol=crlf
+*.ps1 text eol=crlf
+
+# YAML catalogs and Python sources stay LF.
+*.yaml text eol=lf
+*.yml text eol=lf
+*.py text eol=lf

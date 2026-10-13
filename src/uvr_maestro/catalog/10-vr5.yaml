@@ -1,0 +1,716 @@
+- slug: 1_HP-UVR
+  display_name: 'VR Arch Single Model v5: 1_HP-UVR'
+  primary_stem: instrumental
+  secondary_stem: vocals
+  sample_rate: 44100
+  download_url: https://github.com/TRvlvr/model_repo/releases/download/all_public_uvr_models/1_HP-UVR.pth
+  size_bytes: 0
+  sidecar_url: null
+  verified: false
+  notes: Output names and model parameters are resolved from UVR hash metadata.
+  artifacts:
+  - filename: 1_HP-UVR.pth
+    directory: VR_Models
+    url: https://github.com/TRvlvr/model_repo/releases/download/all_public_uvr_models/1_HP-UVR.pth
+    role: weights
+    size_bytes: 0
+    sha256: null
+  metadata: {}
+  aliases:
+  - 1_HP-UVR
+  - 1_HP-UVR.pth
+  purposes: []
+  stems:
+  - Vocals
+  - Instrumental
+  architecture: vr_5
+- slug: 2_HP-UVR
+  display_name: 'VR Arch Single Model v5: 2_HP-UVR'
+  primary_stem: instrumental
+  secondary_stem: vocals
+  sample_rate: 44100
+  download_url: https://github.com/TRvlvr/model_repo/releases/download/all_public_uvr_models/2_HP-UVR.pth
+  size_bytes: 0
+  sidecar_url: null
+  verified: false
+  notes: Output names and model parameters are resolved from UVR hash metadata.
+  artifacts:
+  - filename: 2_HP-UVR.pth
+    directory: VR_Models
+    url: https://github.com/TRvlvr/model_repo/releases/download/all_public_uvr_models/2_HP-UVR.pth
+    role: weights
+    size_bytes: 0
+    sha256: null
+  metadata: {}
+  aliases:
+  - 2_HP-UVR
+  - 2_HP-UVR.pth
+  purposes: []
+  stems:
+  - Vocals
+  - Instrumental
+  architecture: vr_5
+- slug: 3_HP-Vocal-UVR
+  display_name: 'VR Arch Single Model v5: 3_HP-Vocal-UVR'
+  primary_stem: vocals
+  secondary_stem: instrumental
+  sample_rate: 44100
+  download_url: https://github.com/TRvlvr/model_repo/releases/download/all_public_uvr_models/3_HP-Vocal-UVR.pth
+  size_bytes: 0
+  sidecar_url: null
+  verified: true
+  notes: Integration checked on a generated local stereo speech/music fixture. See
+    docs/verification.md for device and workflow evidence.
+  artifacts:
+  - filename: 3_HP-Vocal-UVR.pth
+    directory: VR_Models
+    url: https://github.com/TRvlvr/model_repo/releases/download/all_public_uvr_models/3_HP-Vocal-UVR.pth
+    role: weights
+    size_bytes: 0
+    sha256: null
+  metadata: {}
+  aliases:
+  - 3_HP-Vocal-UVR
+  - 3_HP-Vocal-UVR.pth
+  purposes: []
+  stems:
+  - Vocals
+  - Instrumental
+  architecture: vr_5
+- slug: 4_HP-Vocal-UVR
+  display_name: 'VR Arch Single Model v5: 4_HP-Vocal-UVR'
+  primary_stem: vocals
+  secondary_stem: instrumental
+  sample_rate: 44100
+  download_url: https://github.com/TRvlvr/model_repo/releases/download/all_public_uvr_models/4_HP-Vocal-UVR.pth
+  size_bytes: 0
+  sidecar_url: null
+  verified: false
+  notes: Output names and model parameters are resolved from UVR hash metadata.
+  artifacts:
+  - filename: 4_HP-Vocal-UVR.pth
+    directory: VR_Models
+    url: https://github.com/TRvlvr/model_repo/releases/download/all_public_uvr_models/4_HP-Vocal-UVR.pth
+    role: weights
+    size_bytes: 0
+    sha256: null
+  metadata: {}
+  aliases:
+  - 4_HP-Vocal-UVR
+  - 4_HP-Vocal-UVR.pth
+  purposes: []
+  stems:
+  - Vocals
+  - Instrumental
+  architecture: vr_5
+- slug: 5_HP-Karaoke-UVR
+  display_name: 'VR Arch Single Model v5: 5_HP-Karaoke-UVR'
+  primary_stem: karaoke
+  secondary_stem: vocals
+  sample_rate: 44100
+  download_url: https://github.com/TRvlvr/model_repo/releases/download/all_public_uvr_models/5_HP-Karaoke-UVR.pth
+  size_bytes: 0
+  sidecar_url: null
+  verified: false
+  notes: Output names and model parameters are resolved from UVR hash metadata.
+  artifacts:
+  - filename: 5_HP-Karaoke-UVR.pth
+    directory: VR_Models
+    url: https://github.com/TRvlvr/model_repo/releases/download/all_public_uvr_models/5_HP-Karaoke-UVR.pth
+    role: weights
+    size_bytes: 0
+    sha256: null
+  metadata: {}
+  aliases:
+  - 5_HP-Karaoke-UVR
+  - 5_HP-Karaoke-UVR.pth
+  purposes:
+  - karaoke
+  stems:
+  - Vocals
+  - Instrumental
+  architecture: vr_5
+- slug: 6_HP-Karaoke-UVR
+  display_name: 'VR Arch Single Model v5: 6_HP-Karaoke-UVR'
+  primary_stem: karaoke
+  secondary_stem: vocals
+  sample_rate: 44100
+  download_url: https://github.com/TRvlvr/model_repo/releases/download/all_public_uvr_models/6_HP-Karaoke-UVR.pth
+  size_bytes: 0
+  sidecar_url: null
+  verified: false
+  notes: Output names and model parameters are resolved from UVR hash metadata.
+  artifacts:
+  - filename: 6_HP-Karaoke-UVR.pth
+    directory: VR_Models
+    url: https://github.com/TRvlvr/model_repo/releases/download/all_public_uvr_models/6_HP-Karaoke-UVR.pth
+    role: weights
+    size_bytes: 0
+    sha256: null
+  metadata: {}
+  aliases:
+  - 6_HP-Karaoke-UVR
+  - 6_HP-Karaoke-UVR.pth
+  purposes:
+  - karaoke
+  stems:
+  - Vocals
+  - Instrumental
+  architecture: vr_5
+- slug: 7_HP2-UVR
+  display_name: 'VR Arch Single Model v5: 7_HP2-UVR'
+  primary_stem: instrumental
+  secondary_stem: vocals
+  sample_rate: 44100
+  download_url: https://github.com/TRvlvr/model_repo/releases/download/all_public_uvr_models/7_HP2-UVR.pth
+  size_bytes: 0
+  sidecar_url: null
+  verified: false
+  notes: Output names and model parameters are resolved from UVR hash metadata.
+  artifacts:
+  - filename: 7_HP2-UVR.pth
+    directory: VR_Models
+    url: https://github.com/TRvlvr/model_repo/releases/download/all_public_uvr_models/7_HP2-UVR.pth
+    role: weights
+    size_bytes: 0
+    sha256: null
+  metadata: {}
+  aliases:
+  - 7_HP2-UVR
+  - 7_HP2-UVR.pth
+  purposes: []
+  stems:
+  - Vocals
+  - Instrumental
+  architecture: vr_5
+- slug: 8_HP2-UVR
+  display_name: 'VR Arch Single Model v5: 8_HP2-UVR'
+  primary_stem: instrumental
+  secondary_stem: vocals
+  sample_rate: 44100
+  download_url: https://github.com/TRvlvr/model_repo/releases/download/all_public_uvr_models/8_HP2-UVR.pth
+  size_bytes: 0
+  sidecar_url: null
+  verified: false
+  notes: Output names and model parameters are resolved from UVR hash metadata.
+  artifacts:
+  - filename: 8_HP2-UVR.pth
+    directory: VR_Models
+    url: https://github.com/TRvlvr/model_repo/releases/download/all_public_uvr_models/8_HP2-UVR.pth
+    role: weights
+    size_bytes: 0
+    sha256: null
+  metadata: {}
+  aliases:
+  - 8_HP2-UVR
+  - 8_HP2-UVR.pth
+  purposes: []
+  stems:
+  - Vocals
+  - Instrumental
+  architecture: vr_5
+- slug: 9_HP2-UVR
+  display_name: 'VR Arch Single Model v5: 9_HP2-UVR'
+  primary_stem: instrumental
+  secondary_stem: vocals
+  sample_rate: 44100
+  download_url: https://github.com/TRvlvr/model_repo/releases/download/all_public_uvr_models/9_HP2-UVR.pth
+  size_bytes: 0
+  sidecar_url: null
+  verified: false
+  notes: Output names and model parameters are resolved from UVR hash metadata.
+  artifacts:
+  - filename: 9_HP2-UVR.pth
+    directory: VR_Models
+    url: https://github.com/TRvlvr/model_repo/releases/download/all_public_uvr_models/9_HP2-UVR.pth
+    role: weights
+    size_bytes: 0
+    sha256: null
+  metadata: {}
+  aliases:
+  - 9_HP2-UVR
+  - 9_HP2-UVR.pth
+  purposes: []
+  stems:
+  - Vocals
+  - Instrumental
+  architecture: vr_5
+- slug: 10_SP-UVR-2B-32000-1
+  display_name: 'VR Arch Single Model v5: 10_SP-UVR-2B-32000-1'
+  primary_stem: vocals
+  secondary_stem: instrumental
+  sample_rate: 44100
+  download_url: https://github.com/TRvlvr/model_repo/releases/download/all_public_uvr_models/10_SP-UVR-2B-32000-1.pth
+  size_bytes: 0
+  sidecar_url: null
+  verified: false
+  notes: Output names and model parameters are resolved from UVR hash metadata.
+  artifacts:
+  - filename: 10_SP-UVR-2B-32000-1.pth
+    directory: VR_Models
+    url: https://github.com/TRvlvr/model_repo/releases/download/all_public_uvr_models/10_SP-UVR-2B-32000-1.pth
+    role: weights
+    size_bytes: 0
+    sha256: null
+  metadata: {}
+  aliases:
+  - 10_SP-UVR-2B-32000-1
+  - 10_SP-UVR-2B-32000-1.pth
+  purposes: []
+  stems:
+  - Vocals
+  - Instrumental
+  architecture: vr_5
+- slug: 11_SP-UVR-2B-32000-2
+  display_name: 'VR Arch Single Model v5: 11_SP-UVR-2B-32000-2'
+  primary_stem: vocals
+  secondary_stem: instrumental
+  sample_rate: 44100
+  download_url: https://github.com/TRvlvr/model_repo/releases/download/all_public_uvr_models/11_SP-UVR-2B-32000-2.pth
+  size_bytes: 0
+  sidecar_url: null
+  verified: false
+  notes: Output names and model parameters are resolved from UVR hash metadata.
+  artifacts:
+  - filename: 11_SP-UVR-2B-32000-2.pth
+    directory: VR_Models
+    url: https://github.com/TRvlvr/model_repo/releases/download/all_public_uvr_models/11_SP-UVR-2B-32000-2.pth
+    role: weights
+    size_bytes: 0
+    sha256: null
+  metadata: {}
+  aliases:
+  - 11_SP-UVR-2B-32000-2
+  - 11_SP-UVR-2B-32000-2.pth
+  purposes: []
+  stems:
+  - Vocals
+  - Instrumental
+  architecture: vr_5
+- slug: 12_SP-UVR-3B-44100
+  display_name: 'VR Arch Single Model v5: 12_SP-UVR-3B-44100'
+  primary_stem: vocals
+  secondary_stem: instrumental
+  sample_rate: 44100
+  download_url: https://github.com/TRvlvr/model_repo/releases/download/all_public_uvr_models/12_SP-UVR-3B-44100.pth
+  size_bytes: 0
+  sidecar_url: null
+  verified: false
+  notes: Output names and model parameters are resolved from UVR hash metadata.
+  artifacts:
+  - filename: 12_SP-UVR-3B-44100.pth
+    directory: VR_Models
+    url: https://github.com/TRvlvr/model_repo/releases/download/all_public_uvr_models/12_SP-UVR-3B-44100.pth
+    role: weights
+    size_bytes: 0
+    sha256: null
+  metadata: {}
+  aliases:
+  - 12_SP-UVR-3B-44100
+  - 12_SP-UVR-3B-44100.pth
+  purposes: []
+  stems:
+  - Vocals
+  - Instrumental
+  architecture: vr_5
+- slug: 13_SP-UVR-4B-44100-1
+  display_name: 'VR Arch Single Model v5: 13_SP-UVR-4B-44100-1'
+  primary_stem: vocals
+  secondary_stem: instrumental
+  sample_rate: 44100
+  download_url: https://github.com/TRvlvr/model_repo/releases/download/all_public_uvr_models/13_SP-UVR-4B-44100-1.pth
+  size_bytes: 0
+  sidecar_url: null
+  verified: false
+  notes: Output names and model parameters are resolved from UVR hash metadata.
+  artifacts:
+  - filename: 13_SP-UVR-4B-44100-1.pth
+    directory: VR_Models
+    url: https://github.com/TRvlvr/model_repo/releases/download/all_public_uvr_models/13_SP-UVR-4B-44100-1.pth
+    role: weights
+    size_bytes: 0
+    sha256: null
+  metadata: {}
+  aliases:
+  - 13_SP-UVR-4B-44100-1
+  - 13_SP-UVR-4B-44100-1.pth
+  purposes: []
+  stems:
+  - Vocals
+  - Instrumental
+  architecture: vr_5
+- slug: 14_SP-UVR-4B-44100-2
+  display_name: 'VR Arch Single Model v5: 14_SP-UVR-4B-44100-2'
+  primary_stem: vocals
+  secondary_stem: instrumental
+  sample_rate: 44100
+  download_url: https://github.com/TRvlvr/model_repo/releases/download/all_public_uvr_models/14_SP-UVR-4B-44100-2.pth
+  size_bytes: 0
+  sidecar_url: null
+  verified: false
+  notes: Output names and model parameters are resolved from UVR hash metadata.
+  artifacts:
+  - filename: 14_SP-UVR-4B-44100-2.pth
+    directory: VR_Models
+    url: https://github.com/TRvlvr/model_repo/releases/download/all_public_uvr_models/14_SP-UVR-4B-44100-2.pth
+    role: weights
+    size_bytes: 0
+    sha256: null
+  metadata: {}
+  aliases:
+  - 14_SP-UVR-4B-44100-2
+  - 14_SP-UVR-4B-44100-2.pth
+  purposes: []
+  stems:
+  - Vocals
+  - Instrumental
+  architecture: vr_5
+- slug: 15_SP-UVR-MID-44100-1
+  display_name: 'VR Arch Single Model v5: 15_SP-UVR-MID-44100-1'
+  primary_stem: vocals
+  secondary_stem: instrumental
+  sample_rate: 44100
+  download_url: https://github.com/TRvlvr/model_repo/releases/download/all_public_uvr_models/15_SP-UVR-MID-44100-1.pth
+  size_bytes: 0
+  sidecar_url: null
+  verified: false
+  notes: Output names and model parameters are resolved from UVR hash metadata.
+  artifacts:
+  - filename: 15_SP-UVR-MID-44100-1.pth
+    directory: VR_Models
+    url: https://github.com/TRvlvr/model_repo/releases/download/all_public_uvr_models/15_SP-UVR-MID-44100-1.pth
+    role: weights
+    size_bytes: 0
+    sha256: null
+  metadata: {}
+  aliases:
+  - 15_SP-UVR-MID-44100-1
+  - 15_SP-UVR-MID-44100-1.pth
+  purposes: []
+  stems:
+  - Vocals
+  - Instrumental
+  architecture: vr_5
+- slug: 16_SP-UVR-MID-44100-2
+  display_name: 'VR Arch Single Model v5: 16_SP-UVR-MID-44100-2'
+  primary_stem: vocals
+  secondary_stem: instrumental
+  sample_rate: 44100
+  download_url: https://github.com/TRvlvr/model_repo/releases/download/all_public_uvr_models/16_SP-UVR-MID-44100-2.pth
+  size_bytes: 0
+  sidecar_url: null
+  verified: false
+  notes: Output names and model parameters are resolved from UVR hash metadata.
+  artifacts:
+  - filename: 16_SP-UVR-MID-44100-2.pth
+    directory: VR_Models
+    url: https://github.com/TRvlvr/model_repo/releases/download/all_public_uvr_models/16_SP-UVR-MID-44100-2.pth
+    role: weights
+    size_bytes: 0
+    sha256: null
+  metadata: {}
+  aliases:
+  - 16_SP-UVR-MID-44100-2
+  - 16_SP-UVR-MID-44100-2.pth
+  purposes: []
+  stems:
+  - Vocals
+  - Instrumental
+  architecture: vr_5
+- slug: 17_HP-Wind_Inst-UVR
+  display_name: 'VR Arch Single Model v5: 17_HP-Wind_Inst-UVR'
+  primary_stem: wind
+  secondary_stem: vocals
+  sample_rate: 44100
+  download_url: https://github.com/TRvlvr/model_repo/releases/download/all_public_uvr_models/17_HP-Wind_Inst-UVR.pth
+  size_bytes: 0
+  sidecar_url: null
+  verified: false
+  notes: Output names and model parameters are resolved from UVR hash metadata.
+  artifacts:
+  - filename: 17_HP-Wind_Inst-UVR.pth
+    directory: VR_Models
+    url: https://github.com/TRvlvr/model_repo/releases/download/all_public_uvr_models/17_HP-Wind_Inst-UVR.pth
+    role: weights
+    size_bytes: 0
+    sha256: null
+  metadata: {}
+  aliases:
+  - 17_HP-Wind_Inst-UVR
+  - 17_HP-Wind_Inst-UVR.pth
+  purposes:
+  - wind
+  stems:
+  - Vocals
+  - Instrumental
+  architecture: vr_5
+- slug: UVR-De-Echo-Aggressive
+  display_name: 'VR Arch Single Model v5: UVR-De-Echo-Aggressive by FoxJoy'
+  primary_stem: de_echo
+  secondary_stem: vocals
+  sample_rate: 44100
+  download_url: https://github.com/TRvlvr/model_repo/releases/download/all_public_uvr_models/UVR-De-Echo-Aggressive.pth
+  size_bytes: 0
+  sidecar_url: null
+  verified: true
+  notes: Integration checked on a generated local stereo speech/music fixture. See
+    docs/verification.md for device and workflow evidence.
+  artifacts:
+  - filename: UVR-De-Echo-Aggressive.pth
+    directory: VR_Models
+    url: https://github.com/TRvlvr/model_repo/releases/download/all_public_uvr_models/UVR-De-Echo-Aggressive.pth
+    role: weights
+    size_bytes: 0
+    sha256: null
+  metadata: {}
+  aliases:
+  - UVR-De-Echo-Aggressive by FoxJoy
+  - UVR-De-Echo-Aggressive.pth
+  purposes:
+  - de_echo
+  stems:
+  - Vocals
+  - Instrumental
+  architecture: vr_5
+- slug: UVR-De-Echo-Normal
+  display_name: 'VR Arch Single Model v5: UVR-De-Echo-Normal by FoxJoy'
+  primary_stem: de_echo
+  secondary_stem: vocals
+  sample_rate: 44100
+  download_url: https://github.com/TRvlvr/model_repo/releases/download/all_public_uvr_models/UVR-De-Echo-Normal.pth
+  size_bytes: 0
+  sidecar_url: null
+  verified: false
+  notes: Output names and model parameters are resolved from UVR hash metadata.
+  artifacts:
+  - filename: UVR-De-Echo-Normal.pth
+    directory: VR_Models
+    url: https://github.com/TRvlvr/model_repo/releases/download/all_public_uvr_models/UVR-De-Echo-Normal.pth
+    role: weights
+    size_bytes: 0
+    sha256: null
+  metadata: {}
+  aliases:
+  - UVR-De-Echo-Normal by FoxJoy
+  - UVR-De-Echo-Normal.pth
+  purposes:
+  - de_echo
+  stems:
+  - Vocals
+  - Instrumental
+  architecture: vr_5
+- slug: UVR-DeEcho-DeReverb
+  display_name: 'VR Arch Single Model v5: UVR-DeEcho-DeReverb by FoxJoy'
+  primary_stem: de_echo
+  secondary_stem: vocals
+  sample_rate: 44100
+  download_url: https://github.com/TRvlvr/model_repo/releases/download/all_public_uvr_models/UVR-DeEcho-DeReverb.pth
+  size_bytes: 0
+  sidecar_url: null
+  verified: false
+  notes: Output names and model parameters are resolved from UVR hash metadata.
+  artifacts:
+  - filename: UVR-DeEcho-DeReverb.pth
+    directory: VR_Models
+    url: https://github.com/TRvlvr/model_repo/releases/download/all_public_uvr_models/UVR-DeEcho-DeReverb.pth
+    role: weights
+    size_bytes: 0
+    sha256: null
+  metadata: {}
+  aliases:
+  - UVR-DeEcho-DeReverb by FoxJoy
+  - UVR-DeEcho-DeReverb.pth
+  purposes:
+  - de_echo
+  - de_reverb
+  stems:
+  - Vocals
+  - Instrumental
+  architecture: vr_5
+- slug: UVR-DeNoise-Lite
+  display_name: 'VR Arch Single Model v5: UVR-DeNoise-Lite by FoxJoy'
+  primary_stem: de_noise
+  secondary_stem: vocals
+  sample_rate: 44100
+  download_url: https://github.com/TRvlvr/model_repo/releases/download/all_public_uvr_models/UVR-DeNoise-Lite.pth
+  size_bytes: 0
+  sidecar_url: null
+  verified: false
+  notes: Output names and model parameters are resolved from UVR hash metadata.
+  artifacts:
+  - filename: UVR-DeNoise-Lite.pth
+    directory: VR_Models
+    url: https://github.com/TRvlvr/model_repo/releases/download/all_public_uvr_models/UVR-DeNoise-Lite.pth
+    role: weights
+    size_bytes: 0
+    sha256: null
+  metadata: {}
+  aliases:
+  - UVR-DeNoise-Lite by FoxJoy
+  - UVR-DeNoise-Lite.pth
+  purposes:
+  - de_noise
+  stems:
+  - Vocals
+  - Instrumental
+  architecture: vr_5
+- slug: UVR-DeNoise
+  display_name: 'VR Arch Single Model v5: UVR-DeNoise by FoxJoy'
+  primary_stem: de_noise
+  secondary_stem: vocals
+  sample_rate: 44100
+  download_url: https://github.com/TRvlvr/model_repo/releases/download/all_public_uvr_models/UVR-DeNoise.pth
+  size_bytes: 0
+  sidecar_url: null
+  verified: false
+  notes: Output names and model parameters are resolved from UVR hash metadata.
+  artifacts:
+  - filename: UVR-DeNoise.pth
+    directory: VR_Models
+    url: https://github.com/TRvlvr/model_repo/releases/download/all_public_uvr_models/UVR-DeNoise.pth
+    role: weights
+    size_bytes: 0
+    sha256: null
+  metadata: {}
+  aliases:
+  - UVR-DeNoise by FoxJoy
+  - UVR-DeNoise.pth
+  purposes:
+  - de_noise
+  stems:
+  - Vocals
+  - Instrumental
+  architecture: vr_5
+- slug: UVR-BVE-4B_SN-44100-1
+  display_name: 'VR Arch Single Model v5: UVR-BVE-4B_SN-44100-1'
+  primary_stem: backing_vocals
+  secondary_stem: vocals
+  sample_rate: 44100
+  download_url: https://github.com/TRvlvr/model_repo/releases/download/all_public_uvr_models/UVR-BVE-4B_SN-44100-1.pth
+  size_bytes: 0
+  sidecar_url: null
+  verified: true
+  notes: Integration checked on a generated local stereo speech/music fixture. See
+    docs/verification.md for device and workflow evidence.
+  artifacts:
+  - filename: UVR-BVE-4B_SN-44100-1.pth
+    directory: VR_Models
+    url: https://github.com/TRvlvr/model_repo/releases/download/all_public_uvr_models/UVR-BVE-4B_SN-44100-1.pth
+    role: weights
+    size_bytes: 0
+    sha256: null
+  metadata: {}
+  aliases:
+  - UVR-BVE-4B_SN-44100-1
+  - UVR-BVE-4B_SN-44100-1.pth
+  purposes:
+  - backing_vocals
+  stems:
+  - Vocals
+  - Instrumental
+  architecture: vr_5
+- slug: MGM_HIGHEND_v4
+  display_name: 'VR Arch Single Model v4: MGM_HIGHEND_v4'
+  primary_stem: vocals
+  secondary_stem: instrumental
+  sample_rate: 44100
+  download_url: https://github.com/TRvlvr/model_repo/releases/download/all_public_uvr_models/MGM_HIGHEND_v4.pth
+  size_bytes: 0
+  sidecar_url: null
+  verified: false
+  notes: Output names and model parameters are resolved from UVR hash metadata.
+  artifacts:
+  - filename: MGM_HIGHEND_v4.pth
+    directory: VR_Models
+    url: https://github.com/TRvlvr/model_repo/releases/download/all_public_uvr_models/MGM_HIGHEND_v4.pth
+    role: weights
+    size_bytes: 0
+    sha256: null
+  metadata: {}
+  aliases:
+  - MGM_HIGHEND_v4
+  - MGM_HIGHEND_v4.pth
+  purposes: []
+  stems:
+  - Vocals
+  - Instrumental
+  architecture: vr_4
+- slug: MGM_LOWEND_A_v4
+  display_name: 'VR Arch Single Model v4: MGM_LOWEND_A_v4'
+  primary_stem: vocals
+  secondary_stem: instrumental
+  sample_rate: 44100
+  download_url: https://github.com/TRvlvr/model_repo/releases/download/all_public_uvr_models/MGM_LOWEND_A_v4.pth
+  size_bytes: 0
+  sidecar_url: null
+  verified: false
+  notes: Output names and model parameters are resolved from UVR hash metadata.
+  artifacts:
+  - filename: MGM_LOWEND_A_v4.pth
+    directory: VR_Models
+    url: https://github.com/TRvlvr/model_repo/releases/download/all_public_uvr_models/MGM_LOWEND_A_v4.pth
+    role: weights
+    size_bytes: 0
+    sha256: null
+  metadata: {}
+  aliases:
+  - MGM_LOWEND_A_v4
+  - MGM_LOWEND_A_v4.pth
+  purposes: []
+  stems:
+  - Vocals
+  - Instrumental
+  architecture: vr_4
+- slug: MGM_LOWEND_B_v4
+  display_name: 'VR Arch Single Model v4: MGM_LOWEND_B_v4'
+  primary_stem: vocals
+  secondary_stem: instrumental
+  sample_rate: 44100
+  download_url: https://github.com/TRvlvr/model_repo/releases/download/all_public_uvr_models/MGM_LOWEND_B_v4.pth
+  size_bytes: 0
+  sidecar_url: null
+  verified: false
+  notes: Output names and model parameters are resolved from UVR hash metadata.
+  artifacts:
+  - filename: MGM_LOWEND_B_v4.pth
+    directory: VR_Models
+    url: https://github.com/TRvlvr/model_repo/releases/download/all_public_uvr_models/MGM_LOWEND_B_v4.pth
+    role: weights
+    size_bytes: 0
+    sha256: null
+  metadata: {}
+  aliases:
+  - MGM_LOWEND_B_v4
+  - MGM_LOWEND_B_v4.pth
+  purposes: []
+  stems:
+  - Vocals
+  - Instrumental
+  architecture: vr_4
+- slug: MGM_MAIN_v4
+  display_name: 'VR Arch Single Model v4: MGM_MAIN_v4'
+  primary_stem: vocals
+  secondary_stem: instrumental
+  sample_rate: 44100
+  download_url: https://github.com/TRvlvr/model_repo/releases/download/all_public_uvr_models/MGM_MAIN_v4.pth
+  size_bytes: 0
+  sidecar_url: null
+  verified: true
+  notes: Integration checked on a generated local stereo speech/music fixture. See
+    docs/verification.md for device and workflow evidence.
+  artifacts:
+  - filename: MGM_MAIN_v4.pth
+    directory: VR_Models
+    url: https://github.com/TRvlvr/model_repo/releases/download/all_public_uvr_models/MGM_MAIN_v4.pth
+    role: weights
+    size_bytes: 0
+    sha256: null
+  metadata: {}
+  aliases:
+  - MGM_MAIN_v4
+  - MGM_MAIN_v4.pth
+  purposes: []
+  stems:
+  - Vocals
+  - Instrumental
+  architecture: vr_4

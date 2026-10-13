@@ -1,0 +1,3 @@
+[mcp_servers.uvr-maestro]
+command = "uv"
+args = ["run", "--managed-python", "--python", "3.12", "uvr-maestro"]

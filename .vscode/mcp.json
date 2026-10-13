@@ -1,0 +1,9 @@
+{
+  "servers": {
+    "uvr-maestro": {
+      "type": "stdio",
+      "command": "uv",
+      "args": ["run", "--managed-python", "--python", "3.12", "uvr-maestro"]
+    }
+  }
+}

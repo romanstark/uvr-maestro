@@ -1,0 +1,45 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.eggs/
+build/
+dist/
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.pyre/
+.pyright/
+
+# Virtual environments
+.venv/
+.engine-venv/
+.runtime/
+mcp.local.json
+venv/
+env/
+
+# Local session / runtime data
+*.log
+session_token.json
+catalog_cache/
+settings.json
+
+# IDE / OS
+.vscode/*
+!.vscode/mcp.json
+.idea/
+.DS_Store
+Thumbs.db
+
+# Scratch
+scratch/
+tmp/
+
+# Lock files
+uv.lock
+
+# Bench outputs / measurement runs the engine writes
+bench/
+measurements/

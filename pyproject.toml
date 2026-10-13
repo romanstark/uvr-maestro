@@ -1,0 +1,89 @@
+[build-system]
+requires = ["hatchling>=1.27,<2"]
+build-backend = "hatchling.build"
+
+[project]
+name = "uvr-maestro"
+version = "0.1.0"
+description = "Local UVR5 separation, model management and audio workflows through MCP."
+readme = "README.md"
+requires-python = ">=3.11"
+license = "AGPL-3.0-or-later"
+license-files = ["LICENSE", "THIRD-PARTY.md"]
+authors = [{name = "Roman Stark", email = "mail@romanstark.de"}]
+keywords = ["uvr5", "mcp", "source-separation", "demucs", "mdx-net", "audio"]
+classifiers = [
+  "Development Status :: 4 - Beta",
+  "Operating System :: OS Independent",
+  "Programming Language :: Python :: 3.11",
+  "Programming Language :: Python :: 3.12",
+  "Programming Language :: Python :: 3.13",
+  "Programming Language :: Python :: 3.14",
+  "Topic :: Multimedia :: Sound/Audio",
+]
+dependencies = [
+  "mcp>=1.30,<2", "pyyaml>=6,<7", "pydantic>=2.8,<3", "httpx>=0.27,<1",
+  "numpy>=1.26,<3", "soundfile>=0.12,<1",
+]
+
+[project.urls]
+Homepage = "https://github.com/romanstark/uvr-maestro"
+Repository = "https://github.com/romanstark/uvr-maestro"
+Issues = "https://github.com/romanstark/uvr-maestro/issues"
+
+[project.optional-dependencies]
+dev = [
+  "pytest>=8,<10", "pytest-asyncio>=0.23,<2", "ruff>=0.16,<0.17",
+  "pyright>=1.1,<2", "pyrefly>=1.2,<2", "build>=1.2,<2",
+  "scipy>=1.13,<2", "pyloudnorm>=0.1,<1",
+]
+
+[project.scripts]
+uvr-maestro = "uvr_maestro.server:main"
+uvr-maestro-setup = "uvr_maestro.runtime:main"
+uvr-maestro-skills = "uvr_maestro.skillbook:main"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/uvr_maestro"]
+
+[tool.hatch.build.targets.sdist]
+include = ["/src", "/tests", "/scripts/check_package.py", "/scripts/probe_engine.py",
+           "/scripts/probe_workflows.py", "/scripts/probe_mcp.py",
+           "/docs/architecture.md", "/docs/catalog.md", "/docs/limits.md",
+           "/docs/verification.md", "/docs/mcp-clients.md", "/docs/audio-workflows.md",
+           "/.github", "/.claude-plugin",
+           "/.agents/mcp_config.json", "/.claude/mcp.json", "/.codex/config.toml",
+           "/.cursor/mcp.json", "/.vscode/mcp.json",
+           "/.mcp.json", "/README.md", "/LICENSE", "/THIRD-PARTY.md", "/CONTRIBUTING.md",
+           "/glama.json", "/.gitattributes", "/.gitignore"]
+
+[tool.pytest.ini_options]
+asyncio_mode = "auto"
+testpaths = ["tests", "src"]
+addopts = ["--doctest-modules"]
+
+[tool.pyright]
+include = ["src", "tests", "scripts"]
+exclude = [".venv", ".engine-venv", ".runtime", "scratch"]
+pythonVersion = "3.11"
+typeCheckingMode = "standard"
+venvPath = "."
+venv = ".venv"
+
+[tool.ruff]
+line-length = 100
+target-version = "py311"
+extend-exclude = [".engine-venv", ".runtime", "scratch"]
+
+[tool.ruff.lint]
+extend-select = ["E501"]
+
+[tool.pyrefly]
+project-includes = ["src", "tests", "scripts"]
+project-excludes = [".venv", ".engine-venv", ".runtime", "scratch"]
+
+[tool.pyrefly.errors]
+untyped-import = "ignore"
+unnecessary-type-conversion = "error"
+unnecessary-comparison = "error"
+bad-return = "error"

@@ -1,0 +1,19 @@
+endpoints:
+  vr_catalog: https://raw.githubusercontent.com/TRvlvr/application_data/main/vr_model_data/model_data_new.json
+  mdx_catalog: https://raw.githubusercontent.com/TRvlvr/application_data/main/mdx_model_data/model_data_new.json
+  mdx_model_names: https://raw.githubusercontent.com/TRvlvr/application_data/main/mdx_model_data/model_name_mapper.json
+  demucs_model_names: https://raw.githubusercontent.com/TRvlvr/application_data/main/demucs_model_data/model_name_mapper.json
+  mdx23_configs_base: https://raw.githubusercontent.com/TRvlvr/application_data/main/mdx_model_data/mdx_c_configs/
+  model_repo_release_base: https://github.com/TRvlvr/model_repo/releases/download/all_public_uvr_models/
+  update_patch_repo_base: https://github.com/TRvlvr/model_repo/releases/download/uvr_update_patches/
+  bulletin: https://raw.githubusercontent.com/TRvlvr/application_data/main/bulletin.txt
+  download_checks: https://raw.githubusercontent.com/TRvlvr/application_data/main/filelists/download_checks.json
+  mac_arm_installer: https://github.com/Anjok07/ultimatevocalremovergui/releases/download/v5.6/Ultimate_Vocal_Remover_v5_6_MacOS_arm64.dmg
+  mac_x86_installer: https://github.com/Anjok07/ultimatevocalremovergui/releases/download/v5.6/Ultimate_Vocal_Remover_v5_6_MacOS_x86_64.dmg
+  windows_setup: https://github.com/Anjok07/ultimatevocalremovergui/releases/download/v5.6/UVR_v5.6.0_setup.exe
+  linux_source: https://github.com/Anjok07/ultimatevocalremovergui#linux-installation
+defaults:
+  bulletin_refresh_seconds: 21600
+  catalog_refresh_seconds: 86400
+  download_chunk_bytes: 65536
+  download_timeout_seconds: 300

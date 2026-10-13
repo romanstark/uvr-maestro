@@ -1,0 +1,1575 @@
+- slug: UVR-MDX-NET-Inst_HQ_1
+  display_name: 'MDX-Net Model: UVR-MDX-NET Inst HQ 1'
+  primary_stem: instrumental
+  secondary_stem: vocals
+  sample_rate: 44100
+  download_url: https://github.com/TRvlvr/model_repo/releases/download/all_public_uvr_models/UVR-MDX-NET-Inst_HQ_1.onnx
+  size_bytes: 0
+  sidecar_url: null
+  verified: false
+  notes: Output names and model parameters are resolved from UVR hash metadata.
+  artifacts:
+  - filename: UVR-MDX-NET-Inst_HQ_1.onnx
+    directory: MDX_Net_Models
+    url: https://github.com/TRvlvr/model_repo/releases/download/all_public_uvr_models/UVR-MDX-NET-Inst_HQ_1.onnx
+    role: weights
+    size_bytes: 0
+    sha256: null
+  metadata: {}
+  aliases:
+  - UVR-MDX-NET Inst HQ 1
+  - UVR-MDX-NET-Inst_HQ_1.onnx
+  - UVR-MDX-NET Inst HQ 1
+  purposes: []
+  stems:
+  - Vocals
+  - Instrumental
+  architecture: mdx
+- slug: UVR-MDX-NET-Inst_HQ_2
+  display_name: 'MDX-Net Model: UVR-MDX-NET Inst HQ 2'
+  primary_stem: instrumental
+  secondary_stem: vocals
+  sample_rate: 44100
+  download_url: https://github.com/TRvlvr/model_repo/releases/download/all_public_uvr_models/UVR-MDX-NET-Inst_HQ_2.onnx
+  size_bytes: 0
+  sidecar_url: null
+  verified: false
+  notes: Output names and model parameters are resolved from UVR hash metadata.
+  artifacts:
+  - filename: UVR-MDX-NET-Inst_HQ_2.onnx
+    directory: MDX_Net_Models
+    url: https://github.com/TRvlvr/model_repo/releases/download/all_public_uvr_models/UVR-MDX-NET-Inst_HQ_2.onnx
+    role: weights
+    size_bytes: 0
+    sha256: null
+  metadata: {}
+  aliases:
+  - UVR-MDX-NET Inst HQ 2
+  - UVR-MDX-NET-Inst_HQ_2.onnx
+  - UVR-MDX-NET Inst HQ 2
+  purposes: []
+  stems:
+  - Vocals
+  - Instrumental
+  architecture: mdx
+- slug: UVR-MDX-NET-Inst_HQ_3
+  display_name: 'MDX-Net Model: UVR-MDX-NET Inst HQ 3'
+  primary_stem: instrumental
+  secondary_stem: vocals
+  sample_rate: 44100
+  download_url: https://github.com/TRvlvr/model_repo/releases/download/all_public_uvr_models/UVR-MDX-NET-Inst_HQ_3.onnx
+  size_bytes: 0
+  sidecar_url: null
+  verified: false
+  notes: Output names and model parameters are resolved from UVR hash metadata.
+  artifacts:
+  - filename: UVR-MDX-NET-Inst_HQ_3.onnx
+    directory: MDX_Net_Models
+    url: https://github.com/TRvlvr/model_repo/releases/download/all_public_uvr_models/UVR-MDX-NET-Inst_HQ_3.onnx
+    role: weights
+    size_bytes: 0
+    sha256: null
+  metadata: {}
+  aliases:
+  - UVR-MDX-NET Inst HQ 3
+  - UVR-MDX-NET-Inst_HQ_3.onnx
+  - UVR-MDX-NET Inst HQ 3
+  purposes: []
+  stems:
+  - Vocals
+  - Instrumental
+  architecture: mdx
+- slug: UVR-MDX-NET-Inst_HQ_4
+  display_name: 'MDX-Net Model: UVR-MDX-NET Inst HQ 4'
+  primary_stem: instrumental
+  secondary_stem: vocals
+  sample_rate: 44100
+  download_url: https://github.com/TRvlvr/model_repo/releases/download/all_public_uvr_models/UVR-MDX-NET-Inst_HQ_4.onnx
+  size_bytes: 0
+  sidecar_url: null
+  verified: false
+  notes: Output names and model parameters are resolved from UVR hash metadata.
+  artifacts:
+  - filename: UVR-MDX-NET-Inst_HQ_4.onnx
+    directory: MDX_Net_Models
+    url: https://github.com/TRvlvr/model_repo/releases/download/all_public_uvr_models/UVR-MDX-NET-Inst_HQ_4.onnx
+    role: weights
+    size_bytes: 0
+    sha256: null
+  metadata: {}
+  aliases:
+  - UVR-MDX-NET Inst HQ 4
+  - UVR-MDX-NET-Inst_HQ_4.onnx
+  - UVR-MDX-NET Inst HQ 4
+  purposes: []
+  stems:
+  - Vocals
+  - Instrumental
+  architecture: mdx
+- slug: UVR-MDX-NET-Inst_HQ_5
+  display_name: 'MDX-Net Model: UVR-MDX-NET Inst HQ 5'
+  primary_stem: instrumental
+  secondary_stem: vocals
+  sample_rate: 44100
+  download_url: https://github.com/TRvlvr/model_repo/releases/download/all_public_uvr_models/UVR-MDX-NET-Inst_HQ_5.onnx
+  size_bytes: 0
+  sidecar_url: null
+  verified: false
+  notes: Output names and model parameters are resolved from UVR hash metadata.
+  artifacts:
+  - filename: UVR-MDX-NET-Inst_HQ_5.onnx
+    directory: MDX_Net_Models
+    url: https://github.com/TRvlvr/model_repo/releases/download/all_public_uvr_models/UVR-MDX-NET-Inst_HQ_5.onnx
+    role: weights
+    size_bytes: 0
+    sha256: null
+  metadata: {}
+  aliases:
+  - UVR-MDX-NET Inst HQ 5
+  - UVR-MDX-NET-Inst_HQ_5.onnx
+  - UVR-MDX-NET Inst HQ 5
+  purposes: []
+  stems:
+  - Vocals
+  - Instrumental
+  architecture: mdx
+- slug: UVR_MDXNET_Main
+  display_name: 'MDX-Net Model: UVR-MDX-NET Main'
+  primary_stem: vocals
+  secondary_stem: instrumental
+  sample_rate: 44100
+  download_url: https://github.com/TRvlvr/model_repo/releases/download/all_public_uvr_models/UVR_MDXNET_Main.onnx
+  size_bytes: 0
+  sidecar_url: null
+  verified: false
+  notes: Output names and model parameters are resolved from UVR hash metadata.
+  artifacts:
+  - filename: UVR_MDXNET_Main.onnx
+    directory: MDX_Net_Models
+    url: https://github.com/TRvlvr/model_repo/releases/download/all_public_uvr_models/UVR_MDXNET_Main.onnx
+    role: weights
+    size_bytes: 0
+    sha256: null
+  metadata: {}
+  aliases:
+  - UVR-MDX-NET Main
+  - UVR_MDXNET_Main.onnx
+  - UVR-MDX-NET Main
+  purposes: []
+  stems:
+  - Vocals
+  - Instrumental
+  architecture: mdx
+- slug: UVR-MDX-NET-Inst_Main
+  display_name: 'MDX-Net Model: UVR-MDX-NET Inst Main'
+  primary_stem: instrumental
+  secondary_stem: vocals
+  sample_rate: 44100
+  download_url: https://github.com/TRvlvr/model_repo/releases/download/all_public_uvr_models/UVR-MDX-NET-Inst_Main.onnx
+  size_bytes: 0
+  sidecar_url: null
+  verified: false
+  notes: Output names and model parameters are resolved from UVR hash metadata.
+  artifacts:
+  - filename: UVR-MDX-NET-Inst_Main.onnx
+    directory: MDX_Net_Models
+    url: https://github.com/TRvlvr/model_repo/releases/download/all_public_uvr_models/UVR-MDX-NET-Inst_Main.onnx
+    role: weights
+    size_bytes: 0
+    sha256: null
+  metadata: {}
+  aliases:
+  - UVR-MDX-NET Inst Main
+  - UVR-MDX-NET-Inst_Main.onnx
+  - UVR-MDX-NET Inst Main
+  purposes: []
+  stems:
+  - Vocals
+  - Instrumental
+  architecture: mdx
+- slug: UVR_MDXNET_1_9703
+  display_name: 'MDX-Net Model: UVR-MDX-NET 1'
+  primary_stem: vocals
+  secondary_stem: instrumental
+  sample_rate: 44100
+  download_url: https://github.com/TRvlvr/model_repo/releases/download/all_public_uvr_models/UVR_MDXNET_1_9703.onnx
+  size_bytes: 0
+  sidecar_url: null
+  verified: false
+  notes: Output names and model parameters are resolved from UVR hash metadata.
+  artifacts:
+  - filename: UVR_MDXNET_1_9703.onnx
+    directory: MDX_Net_Models
+    url: https://github.com/TRvlvr/model_repo/releases/download/all_public_uvr_models/UVR_MDXNET_1_9703.onnx
+    role: weights
+    size_bytes: 0
+    sha256: null
+  metadata: {}
+  aliases:
+  - UVR-MDX-NET 1
+  - UVR_MDXNET_1_9703.onnx
+  - UVR-MDX-NET 1
+  purposes: []
+  stems:
+  - Vocals
+  - Instrumental
+  architecture: mdx
+- slug: UVR_MDXNET_2_9682
+  display_name: 'MDX-Net Model: UVR-MDX-NET 2'
+  primary_stem: vocals
+  secondary_stem: instrumental
+  sample_rate: 44100
+  download_url: https://github.com/TRvlvr/model_repo/releases/download/all_public_uvr_models/UVR_MDXNET_2_9682.onnx
+  size_bytes: 0
+  sidecar_url: null
+  verified: false
+  notes: Output names and model parameters are resolved from UVR hash metadata.
+  artifacts:
+  - filename: UVR_MDXNET_2_9682.onnx
+    directory: MDX_Net_Models
+    url: https://github.com/TRvlvr/model_repo/releases/download/all_public_uvr_models/UVR_MDXNET_2_9682.onnx
+    role: weights
+    size_bytes: 0
+    sha256: null
+  metadata: {}
+  aliases:
+  - UVR-MDX-NET 2
+  - UVR_MDXNET_2_9682.onnx
+  - UVR-MDX-NET 2
+  purposes: []
+  stems:
+  - Vocals
+  - Instrumental
+  architecture: mdx
+- slug: UVR_MDXNET_3_9662
+  display_name: 'MDX-Net Model: UVR-MDX-NET 3'
+  primary_stem: vocals
+  secondary_stem: instrumental
+  sample_rate: 44100
+  download_url: https://github.com/TRvlvr/model_repo/releases/download/all_public_uvr_models/UVR_MDXNET_3_9662.onnx
+  size_bytes: 0
+  sidecar_url: null
+  verified: false
+  notes: Output names and model parameters are resolved from UVR hash metadata.
+  artifacts:
+  - filename: UVR_MDXNET_3_9662.onnx
+    directory: MDX_Net_Models
+    url: https://github.com/TRvlvr/model_repo/releases/download/all_public_uvr_models/UVR_MDXNET_3_9662.onnx
+    role: weights
+    size_bytes: 0
+    sha256: null
+  metadata: {}
+  aliases:
+  - UVR-MDX-NET 3
+  - UVR_MDXNET_3_9662.onnx
+  - UVR-MDX-NET 3
+  purposes: []
+  stems:
+  - Vocals
+  - Instrumental
+  architecture: mdx
+- slug: UVR-MDX-NET-Inst_1
+  display_name: 'MDX-Net Model: UVR-MDX-NET Inst 1'
+  primary_stem: instrumental
+  secondary_stem: vocals
+  sample_rate: 44100
+  download_url: https://github.com/TRvlvr/model_repo/releases/download/all_public_uvr_models/UVR-MDX-NET-Inst_1.onnx
+  size_bytes: 0
+  sidecar_url: null
+  verified: false
+  notes: Output names and model parameters are resolved from UVR hash metadata.
+  artifacts:
+  - filename: UVR-MDX-NET-Inst_1.onnx
+    directory: MDX_Net_Models
+    url: https://github.com/TRvlvr/model_repo/releases/download/all_public_uvr_models/UVR-MDX-NET-Inst_1.onnx
+    role: weights
+    size_bytes: 0
+    sha256: null
+  metadata: {}
+  aliases:
+  - UVR-MDX-NET Inst 1
+  - UVR-MDX-NET-Inst_1.onnx
+  - UVR-MDX-NET Inst 1
+  purposes: []
+  stems:
+  - Vocals
+  - Instrumental
+  architecture: mdx
+- slug: UVR-MDX-NET-Inst_2
+  display_name: 'MDX-Net Model: UVR-MDX-NET Inst 2'
+  primary_stem: instrumental
+  secondary_stem: vocals
+  sample_rate: 44100
+  download_url: https://github.com/TRvlvr/model_repo/releases/download/all_public_uvr_models/UVR-MDX-NET-Inst_2.onnx
+  size_bytes: 0
+  sidecar_url: null
+  verified: false
+  notes: Output names and model parameters are resolved from UVR hash metadata.
+  artifacts:
+  - filename: UVR-MDX-NET-Inst_2.onnx
+    directory: MDX_Net_Models
+    url: https://github.com/TRvlvr/model_repo/releases/download/all_public_uvr_models/UVR-MDX-NET-Inst_2.onnx
+    role: weights
+    size_bytes: 0
+    sha256: null
+  metadata: {}
+  aliases:
+  - UVR-MDX-NET Inst 2
+  - UVR-MDX-NET-Inst_2.onnx
+  - UVR-MDX-NET Inst 2
+  purposes: []
+  stems:
+  - Vocals
+  - Instrumental
+  architecture: mdx
+- slug: UVR-MDX-NET-Inst_3
+  display_name: 'MDX-Net Model: UVR-MDX-NET Inst 3'
+  primary_stem: instrumental
+  secondary_stem: vocals
+  sample_rate: 44100
+  download_url: https://github.com/TRvlvr/model_repo/releases/download/all_public_uvr_models/UVR-MDX-NET-Inst_3.onnx
+  size_bytes: 0
+  sidecar_url: null
+  verified: false
+  notes: Output names and model parameters are resolved from UVR hash metadata.
+  artifacts:
+  - filename: UVR-MDX-NET-Inst_3.onnx
+    directory: MDX_Net_Models
+    url: https://github.com/TRvlvr/model_repo/releases/download/all_public_uvr_models/UVR-MDX-NET-Inst_3.onnx
+    role: weights
+    size_bytes: 0
+    sha256: null
+  metadata: {}
+  aliases:
+  - UVR-MDX-NET Inst 3
+  - UVR-MDX-NET-Inst_3.onnx
+  - UVR-MDX-NET Inst 3
+  purposes: []
+  stems:
+  - Vocals
+  - Instrumental
+  architecture: mdx
+- slug: UVR_MDXNET_KARA
+  display_name: 'MDX-Net Model: UVR-MDX-NET Karaoke'
+  primary_stem: karaoke
+  secondary_stem: vocals
+  sample_rate: 44100
+  download_url: https://github.com/TRvlvr/model_repo/releases/download/all_public_uvr_models/UVR_MDXNET_KARA.onnx
+  size_bytes: 0
+  sidecar_url: null
+  verified: false
+  notes: Output names and model parameters are resolved from UVR hash metadata.
+  artifacts:
+  - filename: UVR_MDXNET_KARA.onnx
+    directory: MDX_Net_Models
+    url: https://github.com/TRvlvr/model_repo/releases/download/all_public_uvr_models/UVR_MDXNET_KARA.onnx
+    role: weights
+    size_bytes: 0
+    sha256: null
+  metadata: {}
+  aliases:
+  - UVR-MDX-NET Karaoke
+  - UVR_MDXNET_KARA.onnx
+  - UVR-MDX-NET Karaoke
+  purposes:
+  - karaoke
+  stems:
+  - Vocals
+  - Instrumental
+  architecture: mdx
+- slug: UVR_MDXNET_KARA_2
+  display_name: 'MDX-Net Model: UVR-MDX-NET Karaoke 2'
+  primary_stem: karaoke
+  secondary_stem: vocals
+  sample_rate: 44100
+  download_url: https://github.com/TRvlvr/model_repo/releases/download/all_public_uvr_models/UVR_MDXNET_KARA_2.onnx
+  size_bytes: 0
+  sidecar_url: null
+  verified: false
+  notes: Output names and model parameters are resolved from UVR hash metadata.
+  artifacts:
+  - filename: UVR_MDXNET_KARA_2.onnx
+    directory: MDX_Net_Models
+    url: https://github.com/TRvlvr/model_repo/releases/download/all_public_uvr_models/UVR_MDXNET_KARA_2.onnx
+    role: weights
+    size_bytes: 0
+    sha256: null
+  metadata: {}
+  aliases:
+  - UVR-MDX-NET Karaoke 2
+  - UVR_MDXNET_KARA_2.onnx
+  - UVR-MDX-NET Karaoke 2
+  purposes:
+  - karaoke
+  stems:
+  - Vocals
+  - Instrumental
+  architecture: mdx
+- slug: UVR_MDXNET_9482
+  display_name: 'MDX-Net Model: UVR_MDXNET_9482'
+  primary_stem: vocals
+  secondary_stem: instrumental
+  sample_rate: 44100
+  download_url: https://github.com/TRvlvr/model_repo/releases/download/all_public_uvr_models/UVR_MDXNET_9482.onnx
+  size_bytes: 0
+  sidecar_url: null
+  verified: false
+  notes: Output names and model parameters are resolved from UVR hash metadata.
+  artifacts:
+  - filename: UVR_MDXNET_9482.onnx
+    directory: MDX_Net_Models
+    url: https://github.com/TRvlvr/model_repo/releases/download/all_public_uvr_models/UVR_MDXNET_9482.onnx
+    role: weights
+    size_bytes: 0
+    sha256: null
+  metadata: {}
+  aliases:
+  - UVR_MDXNET_9482
+  - UVR_MDXNET_9482.onnx
+  purposes: []
+  stems:
+  - Vocals
+  - Instrumental
+  architecture: mdx
+- slug: UVR-MDX-NET-Voc_FT
+  display_name: 'MDX-Net Model: UVR-MDX-NET Voc FT'
+  primary_stem: vocals
+  secondary_stem: instrumental
+  sample_rate: 44100
+  download_url: https://github.com/TRvlvr/model_repo/releases/download/all_public_uvr_models/UVR-MDX-NET-Voc_FT.onnx
+  size_bytes: 0
+  sidecar_url: null
+  verified: false
+  notes: Output names and model parameters are resolved from UVR hash metadata.
+  artifacts:
+  - filename: UVR-MDX-NET-Voc_FT.onnx
+    directory: MDX_Net_Models
+    url: https://github.com/TRvlvr/model_repo/releases/download/all_public_uvr_models/UVR-MDX-NET-Voc_FT.onnx
+    role: weights
+    size_bytes: 0
+    sha256: null
+  metadata: {}
+  aliases:
+  - UVR-MDX-NET Voc FT
+  - UVR-MDX-NET-Voc_FT.onnx
+  purposes: []
+  stems:
+  - Vocals
+  - Instrumental
+  architecture: mdx
+- slug: Kim_Vocal_1
+  display_name: 'MDX-Net Model: Kim Vocal 1'
+  primary_stem: vocals
+  secondary_stem: instrumental
+  sample_rate: 44100
+  download_url: https://github.com/TRvlvr/model_repo/releases/download/all_public_uvr_models/Kim_Vocal_1.onnx
+  size_bytes: 0
+  sidecar_url: null
+  verified: false
+  notes: Output names and model parameters are resolved from UVR hash metadata.
+  artifacts:
+  - filename: Kim_Vocal_1.onnx
+    directory: MDX_Net_Models
+    url: https://github.com/TRvlvr/model_repo/releases/download/all_public_uvr_models/Kim_Vocal_1.onnx
+    role: weights
+    size_bytes: 0
+    sha256: null
+  metadata: {}
+  aliases:
+  - Kim Vocal 1
+  - Kim_Vocal_1.onnx
+  - Kim Vocal 1
+  purposes: []
+  stems:
+  - Vocals
+  - Instrumental
+  architecture: mdx
+- slug: Kim_Vocal_2
+  display_name: 'MDX-Net Model: Kim Vocal 2'
+  primary_stem: vocals
+  secondary_stem: instrumental
+  sample_rate: 44100
+  download_url: https://github.com/TRvlvr/model_repo/releases/download/all_public_uvr_models/Kim_Vocal_2.onnx
+  size_bytes: 0
+  sidecar_url: null
+  verified: true
+  notes: Integration checked on a generated local stereo speech/music fixture. See
+    docs/verification.md for device and workflow evidence.
+  artifacts:
+  - filename: Kim_Vocal_2.onnx
+    directory: MDX_Net_Models
+    url: https://github.com/TRvlvr/model_repo/releases/download/all_public_uvr_models/Kim_Vocal_2.onnx
+    role: weights
+    size_bytes: 0
+    sha256: null
+  metadata: {}
+  aliases:
+  - Kim Vocal 2
+  - Kim_Vocal_2.onnx
+  - Kim Vocal 2
+  purposes: []
+  stems:
+  - Vocals
+  - Instrumental
+  architecture: mdx
+- slug: Kim_Inst
+  display_name: 'MDX-Net Model: Kim Inst'
+  primary_stem: instrumental
+  secondary_stem: vocals
+  sample_rate: 44100
+  download_url: https://github.com/TRvlvr/model_repo/releases/download/all_public_uvr_models/Kim_Inst.onnx
+  size_bytes: 0
+  sidecar_url: null
+  verified: false
+  notes: Output names and model parameters are resolved from UVR hash metadata.
+  artifacts:
+  - filename: Kim_Inst.onnx
+    directory: MDX_Net_Models
+    url: https://github.com/TRvlvr/model_repo/releases/download/all_public_uvr_models/Kim_Inst.onnx
+    role: weights
+    size_bytes: 0
+    sha256: null
+  metadata: {}
+  aliases:
+  - Kim Inst
+  - Kim_Inst.onnx
+  - Kim Inst
+  purposes: []
+  stems:
+  - Vocals
+  - Instrumental
+  architecture: mdx
+- slug: Reverb_HQ_By_FoxJoy
+  display_name: 'MDX-Net Model: Reverb HQ By FoxJoy'
+  primary_stem: de_reverb
+  secondary_stem: vocals
+  sample_rate: 44100
+  download_url: https://github.com/TRvlvr/model_repo/releases/download/all_public_uvr_models/Reverb_HQ_By_FoxJoy.onnx
+  size_bytes: 0
+  sidecar_url: null
+  verified: false
+  notes: Output names and model parameters are resolved from UVR hash metadata.
+  artifacts:
+  - filename: Reverb_HQ_By_FoxJoy.onnx
+    directory: MDX_Net_Models
+    url: https://github.com/TRvlvr/model_repo/releases/download/all_public_uvr_models/Reverb_HQ_By_FoxJoy.onnx
+    role: weights
+    size_bytes: 0
+    sha256: null
+  metadata: {}
+  aliases:
+  - Reverb HQ By FoxJoy
+  - Reverb_HQ_By_FoxJoy.onnx
+  - Reverb HQ
+  purposes:
+  - de_reverb
+  stems:
+  - Vocals
+  - Instrumental
+  architecture: mdx
+- slug: UVR-MDX-NET_Crowd_HQ_1
+  display_name: 'MDX-Net Model: UVR-MDX-NET Crowd HQ 1 By Aufr33'
+  primary_stem: vocals
+  secondary_stem: instrumental
+  sample_rate: 44100
+  download_url: https://github.com/TRvlvr/model_repo/releases/download/all_public_uvr_models/UVR-MDX-NET_Crowd_HQ_1.onnx
+  size_bytes: 0
+  sidecar_url: null
+  verified: false
+  notes: Output names and model parameters are resolved from UVR hash metadata.
+  artifacts:
+  - filename: UVR-MDX-NET_Crowd_HQ_1.onnx
+    directory: MDX_Net_Models
+    url: https://github.com/TRvlvr/model_repo/releases/download/all_public_uvr_models/UVR-MDX-NET_Crowd_HQ_1.onnx
+    role: weights
+    size_bytes: 0
+    sha256: null
+  metadata: {}
+  aliases:
+  - UVR-MDX-NET Crowd HQ 1 By Aufr33
+  - UVR-MDX-NET_Crowd_HQ_1.onnx
+  - UVR-MDX-NET Crowd HQ 1
+  purposes: []
+  stems:
+  - Vocals
+  - Instrumental
+  architecture: mdx
+- slug: kuielab_a_vocals
+  display_name: 'MDX-Net Model: kuielab_a_vocals'
+  primary_stem: vocals
+  secondary_stem: instrumental
+  sample_rate: 44100
+  download_url: https://github.com/TRvlvr/model_repo/releases/download/all_public_uvr_models/kuielab_a_vocals.onnx
+  size_bytes: 0
+  sidecar_url: null
+  verified: false
+  notes: Output names and model parameters are resolved from UVR hash metadata.
+  artifacts:
+  - filename: kuielab_a_vocals.onnx
+    directory: MDX_Net_Models
+    url: https://github.com/TRvlvr/model_repo/releases/download/all_public_uvr_models/kuielab_a_vocals.onnx
+    role: weights
+    size_bytes: 0
+    sha256: null
+  metadata: {}
+  aliases:
+  - kuielab_a_vocals
+  - kuielab_a_vocals.onnx
+  purposes: []
+  stems:
+  - Vocals
+  - Instrumental
+  architecture: mdx
+- slug: kuielab_a_other
+  display_name: 'MDX-Net Model: kuielab_a_other'
+  primary_stem: other
+  secondary_stem: vocals
+  sample_rate: 44100
+  download_url: https://github.com/TRvlvr/model_repo/releases/download/all_public_uvr_models/kuielab_a_other.onnx
+  size_bytes: 0
+  sidecar_url: null
+  verified: false
+  notes: Output names and model parameters are resolved from UVR hash metadata.
+  artifacts:
+  - filename: kuielab_a_other.onnx
+    directory: MDX_Net_Models
+    url: https://github.com/TRvlvr/model_repo/releases/download/all_public_uvr_models/kuielab_a_other.onnx
+    role: weights
+    size_bytes: 0
+    sha256: null
+  metadata: {}
+  aliases:
+  - kuielab_a_other
+  - kuielab_a_other.onnx
+  purposes: []
+  stems:
+  - Vocals
+  - Instrumental
+  architecture: mdx
+- slug: kuielab_a_bass
+  display_name: 'MDX-Net Model: kuielab_a_bass'
+  primary_stem: bass
+  secondary_stem: vocals
+  sample_rate: 44100
+  download_url: https://github.com/TRvlvr/model_repo/releases/download/all_public_uvr_models/kuielab_a_bass.onnx
+  size_bytes: 0
+  sidecar_url: null
+  verified: false
+  notes: Output names and model parameters are resolved from UVR hash metadata.
+  artifacts:
+  - filename: kuielab_a_bass.onnx
+    directory: MDX_Net_Models
+    url: https://github.com/TRvlvr/model_repo/releases/download/all_public_uvr_models/kuielab_a_bass.onnx
+    role: weights
+    size_bytes: 0
+    sha256: null
+  metadata: {}
+  aliases:
+  - kuielab_a_bass
+  - kuielab_a_bass.onnx
+  purposes: []
+  stems:
+  - Vocals
+  - Instrumental
+  architecture: mdx
+- slug: kuielab_a_drums
+  display_name: 'MDX-Net Model: kuielab_a_drums'
+  primary_stem: drums
+  secondary_stem: vocals
+  sample_rate: 44100
+  download_url: https://github.com/TRvlvr/model_repo/releases/download/all_public_uvr_models/kuielab_a_drums.onnx
+  size_bytes: 0
+  sidecar_url: null
+  verified: false
+  notes: Output names and model parameters are resolved from UVR hash metadata.
+  artifacts:
+  - filename: kuielab_a_drums.onnx
+    directory: MDX_Net_Models
+    url: https://github.com/TRvlvr/model_repo/releases/download/all_public_uvr_models/kuielab_a_drums.onnx
+    role: weights
+    size_bytes: 0
+    sha256: null
+  metadata: {}
+  aliases:
+  - kuielab_a_drums
+  - kuielab_a_drums.onnx
+  purposes: []
+  stems:
+  - Vocals
+  - Instrumental
+  architecture: mdx
+- slug: kuielab_b_vocals
+  display_name: 'MDX-Net Model: kuielab_b_vocals'
+  primary_stem: vocals
+  secondary_stem: instrumental
+  sample_rate: 44100
+  download_url: https://github.com/TRvlvr/model_repo/releases/download/all_public_uvr_models/kuielab_b_vocals.onnx
+  size_bytes: 0
+  sidecar_url: null
+  verified: false
+  notes: Output names and model parameters are resolved from UVR hash metadata.
+  artifacts:
+  - filename: kuielab_b_vocals.onnx
+    directory: MDX_Net_Models
+    url: https://github.com/TRvlvr/model_repo/releases/download/all_public_uvr_models/kuielab_b_vocals.onnx
+    role: weights
+    size_bytes: 0
+    sha256: null
+  metadata: {}
+  aliases:
+  - kuielab_b_vocals
+  - kuielab_b_vocals.onnx
+  purposes: []
+  stems:
+  - Vocals
+  - Instrumental
+  architecture: mdx
+- slug: kuielab_b_other
+  display_name: 'MDX-Net Model: kuielab_b_other'
+  primary_stem: other
+  secondary_stem: vocals
+  sample_rate: 44100
+  download_url: https://github.com/TRvlvr/model_repo/releases/download/all_public_uvr_models/kuielab_b_other.onnx
+  size_bytes: 0
+  sidecar_url: null
+  verified: false
+  notes: Output names and model parameters are resolved from UVR hash metadata.
+  artifacts:
+  - filename: kuielab_b_other.onnx
+    directory: MDX_Net_Models
+    url: https://github.com/TRvlvr/model_repo/releases/download/all_public_uvr_models/kuielab_b_other.onnx
+    role: weights
+    size_bytes: 0
+    sha256: null
+  metadata: {}
+  aliases:
+  - kuielab_b_other
+  - kuielab_b_other.onnx
+  purposes: []
+  stems:
+  - Vocals
+  - Instrumental
+  architecture: mdx
+- slug: kuielab_b_bass
+  display_name: 'MDX-Net Model: kuielab_b_bass'
+  primary_stem: bass
+  secondary_stem: vocals
+  sample_rate: 44100
+  download_url: https://github.com/TRvlvr/model_repo/releases/download/all_public_uvr_models/kuielab_b_bass.onnx
+  size_bytes: 0
+  sidecar_url: null
+  verified: false
+  notes: Output names and model parameters are resolved from UVR hash metadata.
+  artifacts:
+  - filename: kuielab_b_bass.onnx
+    directory: MDX_Net_Models
+    url: https://github.com/TRvlvr/model_repo/releases/download/all_public_uvr_models/kuielab_b_bass.onnx
+    role: weights
+    size_bytes: 0
+    sha256: null
+  metadata: {}
+  aliases:
+  - kuielab_b_bass
+  - kuielab_b_bass.onnx
+  purposes: []
+  stems:
+  - Vocals
+  - Instrumental
+  architecture: mdx
+- slug: kuielab_b_drums
+  display_name: 'MDX-Net Model: kuielab_b_drums'
+  primary_stem: drums
+  secondary_stem: vocals
+  sample_rate: 44100
+  download_url: https://github.com/TRvlvr/model_repo/releases/download/all_public_uvr_models/kuielab_b_drums.onnx
+  size_bytes: 0
+  sidecar_url: null
+  verified: false
+  notes: Output names and model parameters are resolved from UVR hash metadata.
+  artifacts:
+  - filename: kuielab_b_drums.onnx
+    directory: MDX_Net_Models
+    url: https://github.com/TRvlvr/model_repo/releases/download/all_public_uvr_models/kuielab_b_drums.onnx
+    role: weights
+    size_bytes: 0
+    sha256: null
+  metadata: {}
+  aliases:
+  - kuielab_b_drums
+  - kuielab_b_drums.onnx
+  purposes: []
+  stems:
+  - Vocals
+  - Instrumental
+  architecture: mdx
+- slug: MDX23C_D1581
+  display_name: 'MDX23C Model: MDX23C_D1581'
+  primary_stem: vocals
+  secondary_stem: instrumental
+  sample_rate: 44100
+  download_url: https://github.com/TRvlvr/model_repo/releases/download/all_public_uvr_models/MDX23C_D1581.ckpt
+  size_bytes: 0
+  sidecar_url: null
+  verified: true
+  notes: Downloaded with its YAML sidecar into isolated managed storage and integration
+    checked on a local stereo fixture using CUDA.
+  artifacts:
+  - filename: MDX23C_D1581.ckpt
+    directory: MDX_Net_Models
+    url: https://github.com/TRvlvr/model_repo/releases/download/all_public_uvr_models/MDX23C_D1581.ckpt
+    role: weights
+    size_bytes: 0
+    sha256: null
+  - filename: model_2_stem_061321.yaml
+    directory: MDX_Net_Models/model_data/mdx_c_configs
+    url: https://raw.githubusercontent.com/TRvlvr/application_data/main/mdx_model_data/mdx_c_configs/model_2_stem_061321.yaml
+    role: config
+    size_bytes: 0
+    sha256: null
+  metadata:
+    config_yaml: model_2_stem_061321.yaml
+  aliases:
+  - MDX23C_D1581
+  - MDX23C_D1581.ckpt
+  - MDX23C-InstVoc D1581
+  purposes: []
+  stems:
+  - Vocals
+  - Instrumental
+  architecture: mdxc
+- slug: MDX23C-8KFFT-InstVoc_HQ
+  display_name: 'MDX23C Model: MDX23C-InstVoc HQ'
+  primary_stem: instrumental
+  secondary_stem: vocals
+  sample_rate: 44100
+  download_url: https://github.com/TRvlvr/model_repo/releases/download/all_public_uvr_models/MDX23C-8KFFT-InstVoc_HQ.ckpt
+  size_bytes: 0
+  sidecar_url: null
+  verified: true
+  notes: Integration checked on a generated local stereo speech/music fixture. See
+    docs/verification.md for device and workflow evidence.
+  artifacts:
+  - filename: MDX23C-8KFFT-InstVoc_HQ.ckpt
+    directory: MDX_Net_Models
+    url: https://github.com/TRvlvr/model_repo/releases/download/all_public_uvr_models/MDX23C-8KFFT-InstVoc_HQ.ckpt
+    role: weights
+    size_bytes: 0
+    sha256: null
+  - filename: model_2_stem_full_band_8k.yaml
+    directory: MDX_Net_Models/model_data/mdx_c_configs
+    url: https://raw.githubusercontent.com/TRvlvr/application_data/main/mdx_model_data/mdx_c_configs/model_2_stem_full_band_8k.yaml
+    role: config
+    size_bytes: 0
+    sha256: null
+  metadata:
+    config_yaml: model_2_stem_full_band_8k.yaml
+  aliases:
+  - MDX23C-InstVoc HQ
+  - MDX23C-8KFFT-InstVoc_HQ.ckpt
+  - MDX23C-InstVoc HQ
+  purposes: []
+  stems:
+  - Vocals
+  - Instrumental
+  architecture: mdxc
+- slug: model_bs_roformer_ep_317_sdr_12.9755
+  display_name: 'Roformer Model: BS-Roformer-Viperx-1297'
+  primary_stem: vocals
+  secondary_stem: instrumental
+  sample_rate: 44100
+  download_url: https://github.com/TRvlvr/model_repo/releases/download/all_public_uvr_models/model_bs_roformer_ep_317_sdr_12.9755.ckpt
+  size_bytes: 0
+  sidecar_url: null
+  verified: false
+  notes: Output names and model parameters are resolved from UVR hash metadata.
+  artifacts:
+  - filename: model_bs_roformer_ep_317_sdr_12.9755.ckpt
+    directory: MDX_Net_Models
+    url: https://github.com/TRvlvr/model_repo/releases/download/all_public_uvr_models/model_bs_roformer_ep_317_sdr_12.9755.ckpt
+    role: weights
+    size_bytes: 0
+    sha256: null
+  - filename: model_bs_roformer_ep_317_sdr_12.9755.yaml
+    directory: MDX_Net_Models
+    url: https://raw.githubusercontent.com/TRvlvr/application_data/main/mdx_model_data/mdx_c_configs/model_bs_roformer_ep_317_sdr_12.9755.yaml
+    role: config
+    size_bytes: 0
+    sha256: null
+  metadata: {}
+  aliases:
+  - BS-Roformer-Viperx-1297
+  - model_bs_roformer_ep_317_sdr_12.9755.ckpt
+  - BS-Roformer-Viperx-1297
+  purposes: []
+  stems:
+  - Vocals
+  - Instrumental
+  architecture: roformer
+- slug: model_bs_roformer_ep_368_sdr_12.9628
+  display_name: 'Roformer Model: BS-Roformer-Viperx-1296'
+  primary_stem: vocals
+  secondary_stem: instrumental
+  sample_rate: 44100
+  download_url: https://github.com/TRvlvr/model_repo/releases/download/all_public_uvr_models/model_bs_roformer_ep_368_sdr_12.9628.ckpt
+  size_bytes: 0
+  sidecar_url: null
+  verified: false
+  notes: Output names and model parameters are resolved from UVR hash metadata.
+  artifacts:
+  - filename: model_bs_roformer_ep_368_sdr_12.9628.ckpt
+    directory: MDX_Net_Models
+    url: https://github.com/TRvlvr/model_repo/releases/download/all_public_uvr_models/model_bs_roformer_ep_368_sdr_12.9628.ckpt
+    role: weights
+    size_bytes: 0
+    sha256: null
+  - filename: model_bs_roformer_ep_368_sdr_12.9628.yaml
+    directory: MDX_Net_Models
+    url: https://raw.githubusercontent.com/TRvlvr/application_data/main/mdx_model_data/mdx_c_configs/model_bs_roformer_ep_368_sdr_12.9628.yaml
+    role: config
+    size_bytes: 0
+    sha256: null
+  metadata: {}
+  aliases:
+  - BS-Roformer-Viperx-1296
+  - model_bs_roformer_ep_368_sdr_12.9628.ckpt
+  - BS-Roformer-Viperx-1296
+  purposes: []
+  stems:
+  - Vocals
+  - Instrumental
+  architecture: roformer
+- slug: model_bs_roformer_ep_937_sdr_10.5309
+  display_name: 'Roformer Model: BS-Roformer-Viperx-1053'
+  primary_stem: vocals
+  secondary_stem: instrumental
+  sample_rate: 44100
+  download_url: https://github.com/TRvlvr/model_repo/releases/download/all_public_uvr_models/model_bs_roformer_ep_937_sdr_10.5309.ckpt
+  size_bytes: 0
+  sidecar_url: null
+  verified: false
+  notes: Output names and model parameters are resolved from UVR hash metadata.
+  artifacts:
+  - filename: model_bs_roformer_ep_937_sdr_10.5309.ckpt
+    directory: MDX_Net_Models
+    url: https://github.com/TRvlvr/model_repo/releases/download/all_public_uvr_models/model_bs_roformer_ep_937_sdr_10.5309.ckpt
+    role: weights
+    size_bytes: 0
+    sha256: null
+  - filename: model_bs_roformer_ep_937_sdr_10.5309.yaml
+    directory: MDX_Net_Models
+    url: https://raw.githubusercontent.com/TRvlvr/application_data/main/mdx_model_data/mdx_c_configs/model_bs_roformer_ep_937_sdr_10.5309.yaml
+    role: config
+    size_bytes: 0
+    sha256: null
+  metadata: {}
+  aliases:
+  - BS-Roformer-Viperx-1053
+  - model_bs_roformer_ep_937_sdr_10.5309.ckpt
+  - BS-Roformer-Viperx-1053
+  purposes: []
+  stems:
+  - Vocals
+  - Instrumental
+  architecture: roformer
+- slug: model_mel_band_roformer_ep_3005_sdr_11.4360
+  display_name: 'Roformer Model: Mel-Roformer-Viperx-1143'
+  primary_stem: vocals
+  secondary_stem: instrumental
+  sample_rate: 44100
+  download_url: https://github.com/TRvlvr/model_repo/releases/download/all_public_uvr_models/model_mel_band_roformer_ep_3005_sdr_11.4360.ckpt
+  size_bytes: 0
+  sidecar_url: null
+  verified: false
+  notes: Output names and model parameters are resolved from UVR hash metadata.
+  artifacts:
+  - filename: model_mel_band_roformer_ep_3005_sdr_11.4360.ckpt
+    directory: MDX_Net_Models
+    url: https://github.com/TRvlvr/model_repo/releases/download/all_public_uvr_models/model_mel_band_roformer_ep_3005_sdr_11.4360.ckpt
+    role: weights
+    size_bytes: 0
+    sha256: null
+  - filename: model_mel_band_roformer_ep_3005_sdr_11.4360.yaml
+    directory: MDX_Net_Models
+    url: https://raw.githubusercontent.com/TRvlvr/application_data/main/mdx_model_data/mdx_c_configs/model_mel_band_roformer_ep_3005_sdr_11.4360.yaml
+    role: config
+    size_bytes: 0
+    sha256: null
+  metadata: {}
+  aliases:
+  - Mel-Roformer-Viperx-1143
+  - model_mel_band_roformer_ep_3005_sdr_11.4360.ckpt
+  - Mel-Roformer-Viperx-1143
+  purposes: []
+  stems:
+  - Vocals
+  - Instrumental
+  architecture: roformer
+- slug: melband_roformer_inst_v1
+  display_name: 'Roformer Model: MelBand Roformer Kim | Inst V1 by Unwa'
+  primary_stem: instrumental
+  secondary_stem: vocals
+  sample_rate: 44100
+  download_url: https://huggingface.co/pcunwa/Mel-Band-Roformer-Inst/resolve/main/melband_roformer_inst_v1.ckpt
+  size_bytes: 0
+  sidecar_url: null
+  verified: false
+  notes: Output names and model parameters are resolved from UVR hash metadata.
+  artifacts:
+  - filename: melband_roformer_inst_v1.ckpt
+    directory: MDX_Net_Models
+    url: https://huggingface.co/pcunwa/Mel-Band-Roformer-Inst/resolve/main/melband_roformer_inst_v1.ckpt
+    role: weights
+    size_bytes: 0
+    sha256: null
+  - filename: config_melbandroformer_inst.yaml
+    directory: MDX_Net_Models
+    url: https://raw.githubusercontent.com/TRvlvr/application_data/main/mdx_model_data/mdx_c_configs/config_melbandroformer_inst.yaml
+    role: config
+    size_bytes: 0
+    sha256: null
+  metadata: {}
+  aliases:
+  - MelBand Roformer Kim | Inst V1 by Unwa
+  - melband_roformer_inst_v1.ckpt
+  - MB-Roformer-Inst-v1
+  purposes: []
+  stems:
+  - Vocals
+  - Instrumental
+  architecture: roformer
+- slug: melband_roformer_inst_v2
+  display_name: 'Roformer Model: MelBand Roformer Kim | Inst V2 by Unwa'
+  primary_stem: instrumental
+  secondary_stem: vocals
+  sample_rate: 44100
+  download_url: https://huggingface.co/pcunwa/Mel-Band-Roformer-Inst/resolve/main/melband_roformer_inst_v2.ckpt
+  size_bytes: 0
+  sidecar_url: null
+  verified: false
+  notes: Output names and model parameters are resolved from UVR hash metadata.
+  artifacts:
+  - filename: melband_roformer_inst_v2.ckpt
+    directory: MDX_Net_Models
+    url: https://huggingface.co/pcunwa/Mel-Band-Roformer-Inst/resolve/main/melband_roformer_inst_v2.ckpt
+    role: weights
+    size_bytes: 0
+    sha256: null
+  - filename: config_melbandroformer_inst_v2.yaml
+    directory: MDX_Net_Models
+    url: https://raw.githubusercontent.com/TRvlvr/application_data/main/mdx_model_data/mdx_c_configs/config_melbandroformer_inst_v2.yaml
+    role: config
+    size_bytes: 0
+    sha256: null
+  metadata: {}
+  aliases:
+  - MelBand Roformer Kim | Inst V2 by Unwa
+  - melband_roformer_inst_v2.ckpt
+  - MB-Roformer-Inst-v2
+  purposes: []
+  stems:
+  - Vocals
+  - Instrumental
+  architecture: roformer
+- slug: melband_roformer_instvoc_duality_v1
+  display_name: 'Roformer Model: MelBand Roformer Kim | InstVoc Duality V1 by Unwa'
+  primary_stem: instrumental
+  secondary_stem: vocals
+  sample_rate: 44100
+  download_url: https://huggingface.co/pcunwa/Mel-Band-Roformer-InstVoc-Duality/resolve/main/melband_roformer_instvoc_duality_v1.ckpt
+  size_bytes: 0
+  sidecar_url: null
+  verified: false
+  notes: Output names and model parameters are resolved from UVR hash metadata.
+  artifacts:
+  - filename: melband_roformer_instvoc_duality_v1.ckpt
+    directory: MDX_Net_Models
+    url: https://huggingface.co/pcunwa/Mel-Band-Roformer-InstVoc-Duality/resolve/main/melband_roformer_instvoc_duality_v1.ckpt
+    role: weights
+    size_bytes: 0
+    sha256: null
+  - filename: config_melbandroformer_instvoc_duality.yaml
+    directory: MDX_Net_Models
+    url: https://raw.githubusercontent.com/TRvlvr/application_data/main/mdx_model_data/mdx_c_configs/config_melbandroformer_instvoc_duality.yaml
+    role: config
+    size_bytes: 0
+    sha256: null
+  metadata: {}
+  aliases:
+  - MelBand Roformer Kim | InstVoc Duality V1 by Unwa
+  - melband_roformer_instvoc_duality_v1.ckpt
+  - MB-Roformer-InstVoc-Duality-v1
+  purposes: []
+  stems:
+  - Vocals
+  - Instrumental
+  architecture: roformer
+- slug: melband_roformer_instvox_duality_v2
+  display_name: 'Roformer Model: MelBand Roformer Kim | InstVoc Duality V2 by Unwa'
+  primary_stem: instrumental
+  secondary_stem: vocals
+  sample_rate: 44100
+  download_url: https://huggingface.co/pcunwa/Mel-Band-Roformer-InstVoc-Duality/resolve/main/melband_roformer_instvox_duality_v2.ckpt
+  size_bytes: 0
+  sidecar_url: null
+  verified: false
+  notes: Output names and model parameters are resolved from UVR hash metadata.
+  artifacts:
+  - filename: melband_roformer_instvox_duality_v2.ckpt
+    directory: MDX_Net_Models
+    url: https://huggingface.co/pcunwa/Mel-Band-Roformer-InstVoc-Duality/resolve/main/melband_roformer_instvox_duality_v2.ckpt
+    role: weights
+    size_bytes: 0
+    sha256: null
+  - filename: config_melbandroformer_instvoc_duality.yaml
+    directory: MDX_Net_Models
+    url: https://raw.githubusercontent.com/TRvlvr/application_data/main/mdx_model_data/mdx_c_configs/config_melbandroformer_instvoc_duality.yaml
+    role: config
+    size_bytes: 0
+    sha256: null
+  metadata: {}
+  aliases:
+  - MelBand Roformer Kim | InstVoc Duality V2 by Unwa
+  - melband_roformer_instvox_duality_v2.ckpt
+  - MB-Roformer-InstVoc-Duality-v2
+  purposes: []
+  stems:
+  - Vocals
+  - Instrumental
+  architecture: roformer
+- slug: inst_v1e
+  display_name: 'Roformer Model: MelBand Roformer Kim | Inst V1 (E) by Unwa'
+  primary_stem: instrumental
+  secondary_stem: vocals
+  sample_rate: 44100
+  download_url: https://huggingface.co/pcunwa/Mel-Band-Roformer-Inst/resolve/main/inst_v1e.ckpt
+  size_bytes: 0
+  sidecar_url: null
+  verified: false
+  notes: Output names and model parameters are resolved from UVR hash metadata.
+  artifacts:
+  - filename: inst_v1e.ckpt
+    directory: MDX_Net_Models
+    url: https://huggingface.co/pcunwa/Mel-Band-Roformer-Inst/resolve/main/inst_v1e.ckpt
+    role: weights
+    size_bytes: 0
+    sha256: null
+  - filename: config_melbandroformer_inst.yaml
+    directory: MDX_Net_Models
+    url: https://raw.githubusercontent.com/TRvlvr/application_data/main/mdx_model_data/mdx_c_configs/config_melbandroformer_inst.yaml
+    role: config
+    size_bytes: 0
+    sha256: null
+  metadata: {}
+  aliases:
+  - MelBand Roformer Kim | Inst V1 (E) by Unwa
+  - inst_v1e.ckpt
+  - MB-Roformer-Inst-v1-E
+  purposes: []
+  stems:
+  - Vocals
+  - Instrumental
+  architecture: roformer
+- slug: MelBandRoformer
+  display_name: 'Roformer Model: MelBand Roformer Kim'
+  primary_stem: vocals
+  secondary_stem: instrumental
+  sample_rate: 44100
+  download_url: https://huggingface.co/KimberleyJSN/melbandroformer/resolve/main/MelBandRoformer.ckpt
+  size_bytes: 0
+  sidecar_url: null
+  verified: true
+  notes: Verified CPU/CUDA classic MelBand inference on generated fixtures; see docs/verification.md.
+  artifacts:
+  - filename: MelBandRoformer.ckpt
+    directory: MDX_Net_Models
+    url: https://huggingface.co/KimberleyJSN/melbandroformer/resolve/main/MelBandRoformer.ckpt
+    role: weights
+    size_bytes: 0
+    sha256: null
+  - filename: config_vocals_mel_band_roformer_kim.yaml
+    directory: MDX_Net_Models
+    url: https://raw.githubusercontent.com/TRvlvr/application_data/main/mdx_model_data/mdx_c_configs/config_vocals_mel_band_roformer_kim.yaml
+    role: config
+    size_bytes: 0
+    sha256: null
+  metadata:
+    roformer_variant: mel_band
+    config_yaml: config_vocals_mel_band_roformer_kim.yaml
+  aliases:
+  - MelBand Roformer Kim
+  - MelBandRoformer.ckpt
+  - MB-Roformer-Kim
+  purposes: []
+  stems:
+  - Vocals
+  - Instrumental
+  architecture: roformer
+- slug: BS_Inst_EXP_VRL
+  display_name: 'Roformer Model: BS-Roformer-Inst-EXP-Value-Residual | (by Unwa)'
+  primary_stem: instrumental
+  secondary_stem: vocals
+  sample_rate: 44100
+  download_url: https://huggingface.co/pcunwa/BS-Roformer-Inst-EXP-Value-Residual/resolve/main/BS_Inst_EXP_VRL.ckpt
+  size_bytes: 0
+  sidecar_url: null
+  verified: false
+  notes: Output names and model parameters are resolved from UVR hash metadata.
+  artifacts:
+  - filename: BS_Inst_EXP_VRL.ckpt
+    directory: MDX_Net_Models
+    url: https://huggingface.co/pcunwa/BS-Roformer-Inst-EXP-Value-Residual/resolve/main/BS_Inst_EXP_VRL.ckpt
+    role: weights
+    size_bytes: 0
+    sha256: null
+  - filename: BS_Inst_EXP_VRL.yaml
+    directory: MDX_Net_Models
+    url: https://raw.githubusercontent.com/TRvlvr/application_data/main/mdx_model_data/mdx_c_configs/BS_Inst_EXP_VRL.yaml
+    role: config
+    size_bytes: 0
+    sha256: null
+  metadata: {}
+  aliases:
+  - BS-Roformer-Inst-EXP-Value-Residual | (by Unwa)
+  - BS_Inst_EXP_VRL.ckpt
+  - BS-Ro-Inst-EXP-Unwa
+  purposes: []
+  stems:
+  - Vocals
+  - Instrumental
+  architecture: roformer
+- slug: mel_band_roformer_karaoke_aufr33_viperx_sdr_10.1956
+  display_name: 'Roformer Model: Karaoke MelBand Roformer | (by aufr33 & viperx)'
+  primary_stem: karaoke
+  secondary_stem: vocals
+  sample_rate: 44100
+  download_url: https://github.com/TRvlvr/model_repo/releases/download/all_public_uvr_models/mel_band_roformer_karaoke_aufr33_viperx_sdr_10.1956.ckpt
+  size_bytes: 0
+  sidecar_url: null
+  verified: false
+  notes: Output names and model parameters are resolved from UVR hash metadata.
+  artifacts:
+  - filename: mel_band_roformer_karaoke_aufr33_viperx_sdr_10.1956.ckpt
+    directory: MDX_Net_Models
+    url: https://github.com/TRvlvr/model_repo/releases/download/all_public_uvr_models/mel_band_roformer_karaoke_aufr33_viperx_sdr_10.1956.ckpt
+    role: weights
+    size_bytes: 0
+    sha256: null
+  - filename: config_mel_band_roformer_karaoke.yaml
+    directory: MDX_Net_Models
+    url: https://raw.githubusercontent.com/TRvlvr/application_data/main/mdx_model_data/mdx_c_configs/config_mel_band_roformer_karaoke.yaml
+    role: config
+    size_bytes: 0
+    sha256: null
+  metadata: {}
+  aliases:
+  - Karaoke MelBand Roformer | (by aufr33 & viperx)
+  - mel_band_roformer_karaoke_aufr33_viperx_sdr_10.1956.ckpt
+  - MB-Ro-Kara-Aufr33-Viperx
+  purposes:
+  - karaoke
+  stems:
+  - Vocals
+  - Instrumental
+  architecture: roformer
+- slug: deverb_bs_roformer_8_256dim_8depth
+  display_name: 'Roformer Model: BS Roformer Dereverb | (anvuew edition)'
+  primary_stem: de_reverb
+  secondary_stem: null
+  sample_rate: 44100
+  download_url: https://huggingface.co/anvuew/deverb_bs_roformer/resolve/main/archive/deverb_bs_roformer_8_256dim_8depth.ckpt
+  size_bytes: 0
+  sidecar_url: null
+  verified: true
+  notes: Verified CPU/CUDA classic BandSplit inference; publisher moved this checkpoint
+    into archive.
+  artifacts:
+  - filename: deverb_bs_roformer_8_256dim_8depth.ckpt
+    directory: MDX_Net_Models
+    url: https://huggingface.co/anvuew/deverb_bs_roformer/resolve/main/archive/deverb_bs_roformer_8_256dim_8depth.ckpt
+    role: weights
+    size_bytes: 170770820
+    sha256: ee204fc59fa4111674536d47bd1ef3759acb9f7cf5a759ec4b867a828bb76c64
+  - filename: deverb_bs_roformer_8_256dim_8depth.yaml
+    directory: MDX_Net_Models
+    url: https://huggingface.co/anvuew/deverb_bs_roformer/resolve/main/archive/deverb_bs_roformer_8_256dim_8depth.yaml
+    role: config
+    size_bytes: 0
+    sha256: null
+  metadata:
+    roformer_variant: band_split
+    config_yaml: deverb_bs_roformer_8_256dim_8depth.yaml
+    catalog_source_override: true
+  aliases:
+  - BS Roformer Dereverb | (anvuew edition)
+  - deverb_bs_roformer_8_256dim_8depth.ckpt
+  - BS-Ro-Dereverb-Anvuew
+  purposes:
+  - de_reverb
+  stems:
+  - No Reverb
+  - Reverb
+  architecture: roformer
+- slug: model_bandit_plus_dnr_sdr_11.47
+  display_name: 'Bandit Plus: Cinematic Bandit Plus | (by kwatcharasupat)'
+  primary_stem: vocals
+  secondary_stem: instrumental
+  sample_rate: 44100
+  download_url: https://github.com/TRvlvr/model_repo/releases/download/all_public_uvr_models/model_bandit_plus_dnr_sdr_11.47.ckpt
+  size_bytes: 0
+  sidecar_url: null
+  verified: false
+  notes: Output names and model parameters are resolved from UVR hash metadata.
+  artifacts:
+  - filename: model_bandit_plus_dnr_sdr_11.47.ckpt
+    directory: MDX_Net_Models
+    url: https://github.com/TRvlvr/model_repo/releases/download/all_public_uvr_models/model_bandit_plus_dnr_sdr_11.47.ckpt
+    role: weights
+    size_bytes: 0
+    sha256: null
+  - filename: config_dnr_bandit_bsrnn_multi_mus64.yaml
+    directory: MDX_Net_Models
+    url: https://raw.githubusercontent.com/TRvlvr/application_data/main/mdx_model_data/mdx_c_configs/config_dnr_bandit_bsrnn_multi_mus64.yaml
+    role: config
+    size_bytes: 0
+    sha256: null
+  metadata: {}
+  aliases:
+  - Cinematic Bandit Plus | (by kwatcharasupat)
+  - model_bandit_plus_dnr_sdr_11.47.ckpt
+  - Cinematic-Bandit-Plus
+  purposes: []
+  stems:
+  - Vocals
+  - Instrumental
+  architecture: unknown
+- slug: checkpoint-multi_fixed
+  display_name: 'Bandit v2: Cinematic Bandit v2 Multilang | (by kwatcharasupat)'
+  primary_stem: vocals
+  secondary_stem: instrumental
+  sample_rate: 44100
+  download_url: https://github.com/TRvlvr/model_repo/releases/download/all_public_uvr_models/checkpoint-multi_fixed.ckpt
+  size_bytes: 0
+  sidecar_url: null
+  verified: false
+  notes: Output names and model parameters are resolved from UVR hash metadata.
+  artifacts:
+  - filename: checkpoint-multi_fixed.ckpt
+    directory: MDX_Net_Models
+    url: https://github.com/TRvlvr/model_repo/releases/download/all_public_uvr_models/checkpoint-multi_fixed.ckpt
+    role: weights
+    size_bytes: 0
+    sha256: null
+  - filename: config_dnr_bandit_v2_mus64.yaml
+    directory: MDX_Net_Models
+    url: https://raw.githubusercontent.com/TRvlvr/application_data/main/mdx_model_data/mdx_c_configs/config_dnr_bandit_v2_mus64.yaml
+    role: config
+    size_bytes: 0
+    sha256: null
+  metadata: {}
+  aliases:
+  - Cinematic Bandit v2 Multilang | (by kwatcharasupat)
+  - checkpoint-multi_fixed.ckpt
+  - Cinematic-Bandit-Multi
+  purposes: []
+  stems:
+  - Vocals
+  - Instrumental
+  architecture: unknown
+- slug: scnet_checkpoint_musdb18
+  display_name: 'SCnet: 4-stems SCNet_MUSDB18 | (by starrytong)'
+  primary_stem: vocals
+  secondary_stem: instrumental
+  sample_rate: 44100
+  download_url: https://github.com/ZFTurbo/Music-Source-Separation-Training/releases/download/v.1.0.6/scnet_checkpoint_musdb18.ckpt
+  size_bytes: 0
+  sidecar_url: null
+  verified: false
+  notes: Output names and model parameters are resolved from UVR hash metadata.
+  artifacts:
+  - filename: scnet_checkpoint_musdb18.ckpt
+    directory: MDX_Net_Models
+    url: https://github.com/ZFTurbo/Music-Source-Separation-Training/releases/download/v.1.0.6/scnet_checkpoint_musdb18.ckpt
+    role: weights
+    size_bytes: 0
+    sha256: null
+  - filename: config_musdb18_scnet.yaml
+    directory: MDX_Net_Models
+    url: https://raw.githubusercontent.com/TRvlvr/application_data/main/mdx_model_data/mdx_c_configs/config_musdb18_scnet.yaml
+    role: config
+    size_bytes: 0
+    sha256: null
+  metadata: {}
+  aliases:
+  - 4-stems SCNet_MUSDB18 | (by starrytong)
+  - scnet_checkpoint_musdb18.ckpt
+  - 4S-SCNet-Starrytong
+  purposes: []
+  stems:
+  - Vocals
+  - Instrumental
+  architecture: unknown
+- slug: SCNet-large_starrytong_fixed
+  display_name: 'SCnet: 4-stems SCNet Large | (by starrytong)'
+  primary_stem: vocals
+  secondary_stem: instrumental
+  sample_rate: 44100
+  download_url: https://github.com/ZFTurbo/Music-Source-Separation-Training/releases/download/v1.0.9/SCNet-large_starrytong_fixed.ckpt
+  size_bytes: 0
+  sidecar_url: null
+  verified: false
+  notes: Output names and model parameters are resolved from UVR hash metadata.
+  artifacts:
+  - filename: SCNet-large_starrytong_fixed.ckpt
+    directory: MDX_Net_Models
+    url: https://github.com/ZFTurbo/Music-Source-Separation-Training/releases/download/v1.0.9/SCNet-large_starrytong_fixed.ckpt
+    role: weights
+    size_bytes: 0
+    sha256: null
+  - filename: config_musdb18_scnet_large_starrytong.yaml
+    directory: MDX_Net_Models
+    url: https://raw.githubusercontent.com/TRvlvr/application_data/main/mdx_model_data/mdx_c_configs/config_musdb18_scnet_large_starrytong.yaml
+    role: config
+    size_bytes: 0
+    sha256: null
+  metadata: {}
+  aliases:
+  - 4-stems SCNet Large | (by starrytong)
+  - SCNet-large_starrytong_fixed.ckpt
+  - 4S-SCNet-Large-Starrytong
+  purposes: []
+  stems:
+  - Vocals
+  - Instrumental
+  architecture: unknown
+- slug: model_scnet_sdr_9.3244
+  display_name: 'SCnet: 4-stems SCNet Large'
+  primary_stem: vocals
+  secondary_stem: instrumental
+  sample_rate: 44100
+  download_url: https://github.com/ZFTurbo/Music-Source-Separation-Training/releases/download/v1.0.8/model_scnet_sdr_9.3244.ckpt
+  size_bytes: 0
+  sidecar_url: null
+  verified: false
+  notes: Output names and model parameters are resolved from UVR hash metadata.
+  artifacts:
+  - filename: model_scnet_sdr_9.3244.ckpt
+    directory: MDX_Net_Models
+    url: https://github.com/ZFTurbo/Music-Source-Separation-Training/releases/download/v1.0.8/model_scnet_sdr_9.3244.ckpt
+    role: weights
+    size_bytes: 0
+    sha256: null
+  - filename: config_musdb18_scnet_large.yaml
+    directory: MDX_Net_Models
+    url: https://raw.githubusercontent.com/TRvlvr/application_data/main/mdx_model_data/mdx_c_configs/config_musdb18_scnet_large.yaml
+    role: config
+    size_bytes: 0
+    sha256: null
+  metadata: {}
+  aliases:
+  - 4-stems SCNet Large
+  - model_scnet_sdr_9.3244.ckpt
+  - 4S-SCNet-Large
+  purposes: []
+  stems:
+  - Vocals
+  - Instrumental
+  architecture: unknown
+- slug: model_scnet_ep_54_sdr_9.8051
+  display_name: 'SCnet: 4-stems SCNet-XL'
+  primary_stem: vocals
+  secondary_stem: instrumental
+  sample_rate: 44100
+  download_url: https://github.com/ZFTurbo/Music-Source-Separation-Training/releases/download/v1.0.13/model_scnet_ep_54_sdr_9.8051.ckpt
+  size_bytes: 0
+  sidecar_url: null
+  verified: false
+  notes: Output names and model parameters are resolved from UVR hash metadata.
+  artifacts:
+  - filename: model_scnet_ep_54_sdr_9.8051.ckpt
+    directory: MDX_Net_Models
+    url: https://github.com/ZFTurbo/Music-Source-Separation-Training/releases/download/v1.0.13/model_scnet_ep_54_sdr_9.8051.ckpt
+    role: weights
+    size_bytes: 0
+    sha256: null
+  - filename: config_musdb18_scnet_xl.yaml
+    directory: MDX_Net_Models
+    url: https://raw.githubusercontent.com/TRvlvr/application_data/main/mdx_model_data/mdx_c_configs/config_musdb18_scnet_xl.yaml
+    role: config
+    size_bytes: 0
+    sha256: null
+  metadata: {}
+  aliases:
+  - 4-stems SCNet-XL
+  - model_scnet_ep_54_sdr_9.8051.ckpt
+  - 4S-SCNet-XL-ZFTurbo
+  purposes: []
+  stems:
+  - Vocals
+  - Instrumental
+  architecture: unknown
+- slug: aufr33-jarredou_DrumSep_model_mdx23c_ep_141_sdr_10.8059
+  display_name: 'MDX23C Model: DrumSep 6stem | (by aufr33 & jarredou)'
+  primary_stem: drums
+  secondary_stem: vocals
+  sample_rate: 44100
+  download_url: https://github.com/jarredou/models/releases/download/aufr33-jarredou_MDX23C_DrumSep_model_v0.1/aufr33-jarredou_DrumSep_model_mdx23c_ep_141_sdr_10.8059.ckpt
+  size_bytes: 0
+  sidecar_url: null
+  verified: false
+  notes: Output names and model parameters are resolved from UVR hash metadata.
+  artifacts:
+  - filename: aufr33-jarredou_DrumSep_model_mdx23c_ep_141_sdr_10.8059.ckpt
+    directory: MDX_Net_Models
+    url: https://github.com/jarredou/models/releases/download/aufr33-jarredou_MDX23C_DrumSep_model_v0.1/aufr33-jarredou_DrumSep_model_mdx23c_ep_141_sdr_10.8059.ckpt
+    role: weights
+    size_bytes: 0
+    sha256: null
+  - filename: aufr33-jarredou_DrumSep_model_mdx23c_ep_141_sdr_10.8059.yaml
+    directory: MDX_Net_Models
+    url: https://raw.githubusercontent.com/TRvlvr/application_data/main/mdx_model_data/mdx_c_configs/aufr33-jarredou_DrumSep_model_mdx23c_ep_141_sdr_10.8059.yaml
+    role: config
+    size_bytes: 0
+    sha256: null
+  metadata: {}
+  aliases:
+  - DrumSep 6stem | (by aufr33 & jarredou)
+  - aufr33-jarredou_DrumSep_model_mdx23c_ep_141_sdr_10.8059.ckpt
+  - DrumSep-Aufr33-Jarredou
+  purposes: []
+  stems:
+  - Vocals
+  - Instrumental
+  architecture: unknown
+- slug: model_mdx23c_ep_271_l1_freq_72.2383
+  display_name: 'MDX23C Model: Phantom Centre extraction | (by wesleyr36)'
+  primary_stem: vocals
+  secondary_stem: instrumental
+  sample_rate: 44100
+  download_url: https://github.com/ZFTurbo/Music-Source-Separation-Training/releases/download/v1.0.10/model_mdx23c_ep_271_l1_freq_72.2383.ckpt
+  size_bytes: 0
+  sidecar_url: null
+  verified: false
+  notes: Output names and model parameters are resolved from UVR hash metadata.
+  artifacts:
+  - filename: model_mdx23c_ep_271_l1_freq_72.2383.ckpt
+    directory: MDX_Net_Models
+    url: https://github.com/ZFTurbo/Music-Source-Separation-Training/releases/download/v1.0.10/model_mdx23c_ep_271_l1_freq_72.2383.ckpt
+    role: weights
+    size_bytes: 0
+    sha256: null
+  - filename: config_mdx23c_similarity.yaml
+    directory: MDX_Net_Models
+    url: https://raw.githubusercontent.com/TRvlvr/application_data/main/mdx_model_data/mdx_c_configs/config_mdx23c_similarity.yaml
+    role: config
+    size_bytes: 0
+    sha256: null
+  metadata: {}
+  aliases:
+  - Phantom Centre extraction | (by wesleyr36)
+  - model_mdx23c_ep_271_l1_freq_72.2383.ckpt
+  - Phantom-Mid-Wesleyr36
+  purposes: []
+  stems:
+  - Vocals
+  - Instrumental
+  architecture: unknown

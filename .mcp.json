@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "uvr-maestro": {
+      "command": "uvx",
+      "args": ["--managed-python", "--python", "3.12", "--from", "git+https://github.com/romanstark/uvr-maestro.git", "uvr-maestro"]
+    }
+  }
+}

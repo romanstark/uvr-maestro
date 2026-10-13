@@ -1,0 +1,31 @@
+keys:
+  - {key: device, type: enum, default: auto, enum: [auto, cpu, cuda, mps]}
+  - {key: save_format, type: enum, default: wav, enum: [wav, mp3, flac]}
+  - {key: wav_subtype, type: enum, default: PCM_16, enum: [PCM_16, PCM_24, FLOAT]}
+  - {key: mp3_bitrate, type: enum, default: 320k, enum: [96k, 128k, 192k, 256k, 320k]}
+  - {key: segment_size, type: int, default: 256, minimum: 64, maximum: 4096}
+  - {key: overlap, type: float, default: 0.25, minimum: 0, maximum: 0.99}
+  - {key: overlap_mdx, type: float, default: 0.25, minimum: 0, maximum: 0.99}
+  - {key: overlap_mdx23, type: int, default: 8, minimum: 2, maximum: 32}
+  - {key: batch_size, type: int, default: 1, minimum: 1, maximum: 16}
+  - {key: window_size, type: int, default: 512, minimum: 64, maximum: 4096}
+  - {key: aggression, type: int, default: 5, minimum: 0, maximum: 100}
+  - {key: tta, type: bool, default: false}
+  - {key: post_process, type: bool, default: false}
+  - {key: post_process_threshold, type: float, default: 0.2, minimum: 0, maximum: 1}
+  - {key: high_end, type: bool, default: false}
+  - {key: shifts, type: int, default: 1, minimum: 0, maximum: 10}
+  - {key: demucs_segment, type: segment, default: Default}
+  - {key: stem, type: str, default: All Stems}
+  - {key: normalize_output, type: bool, default: false}
+  - {key: primary_stem_only, type: bool, default: false}
+  - {key: secondary_stem_only, type: bool, default: false}
+  - {key: denoise, type: bool, default: false}
+  - {key: is_invert_spec, type: bool, default: false}
+  - {key: semitone_shift, type: float, default: 0, minimum: -24, maximum: 24}
+  - {key: is_match_frequency_pitch, type: bool, default: true}
+  - {key: mdxc_model_segment, type: bool, default: true}
+  - {key: gpu_conversion, type: bool, default: true, doc: Legacy profile compatibility flag.}
+  - {key: roformer_segment_seconds, type: float, default: 8, minimum: 0.1, maximum: 30}
+  - {key: roformer_overlap, type: float, default: 0.25, minimum: 0, maximum: 0.99}
+
