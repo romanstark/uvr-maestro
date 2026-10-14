@@ -40,8 +40,8 @@ Audition the results, choose a model, then use it for the full song.
 
 Maestro routes the drum output into a compatible custom MDX23C model and keeps
 the requested intermediate. The resulting audio files can go into any DAW.
-Optional MIDI analysis and pad placement belong to
-[Live Maestro](https://github.com/romanstark/live-maestro).
+Independent Audio Maestro can estimate MIDI from the files;
+[Live Maestro](https://github.com/romanstark/live-maestro) handles pad loading and DAW placement.
 
 ### 3. Clean up a recording
 

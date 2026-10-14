@@ -84,7 +84,8 @@ unsupported. Chunk duration and overlap use `roformer_segment_seconds` and
 ## Independent consumers
 
 UVR Maestro does not require Live Maestro. Any file consumer can use the audio
-and run manifest. For Live's optional drum analysis, pass each selected output
+and run manifest. For independent Audio Maestro's drum analysis, pass each selected output
 file with `source_offset_seconds` and the original `source_sample_rate` from
-`timeline`. Beat maps, MIDI, instrument assignment and DAW placement belong to
-that consumer. No cross-server imports, calls or shared installation are needed.
+`timeline`. Audio Maestro owns note/attack estimates and MIDI export. Live Maestro
+or another DAW owns instrument assignment and placement. No cross-server imports,
+calls or shared installation are needed.
